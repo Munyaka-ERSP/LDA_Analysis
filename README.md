@@ -11,7 +11,7 @@
 
 ### Our team consists of:
 1. Andrew Smithwick 
-1. Chuong Nguyen: :email: chn021@ucsd.edu
+1. Chuong Nguyen :email: chn021@ucsd.edu
 1. Emily Gorial
 1. Natasha Tran
 
