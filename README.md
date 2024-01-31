@@ -6,10 +6,16 @@
 
 ---
 
+### Table of Content:
+- [Title](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#hello-and-welcome-were-ersp-munyakas-group)
+- [Advisor](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#advisor)
+- [Our Team](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#our-team-consists-of)
+- [Research](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#research)
+
 ### Advisor:
 1. Dr. Imani Munyaka 
 
-### Our team consists of:
+### Our Team:
 1. Andrew Smithwick 
 1. Chuong Nguyen :email: chn021@ucsd.edu
 1. Emily Gorial
