@@ -1,2 +1,2 @@
-![ERSP Logo]((https://ersp.byu.edu/images/ersp.png)https://ersp.byu.edu/images/ersp.png)
+![ERSP Logo](https://ersp.byu.edu/images/ersp.png)
 # Hello 
