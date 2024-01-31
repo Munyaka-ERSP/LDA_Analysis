@@ -1,4 +1,4 @@
-![ERSP Logo](https://jacobsschool.ucsd.edu/sites/default/files/UCSDLogo_JSOE_BlueGold_0_0.png)
+![ERSP Logo](images/UCSDLogo_JSOE_BlueGold_0_0.png)
 
 <h3 style="text-align: center;">Hello and Welcome, We're ERSP Munyaka's Group</h3>
 
