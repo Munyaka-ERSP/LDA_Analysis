@@ -1,517 +1,561 @@
 ,top words,ID,Text
 0,, , 
-1,"['coughs', 'adopt', 'coughs']",42,coughs adopt me coughs
-2,"['tf', 'defeat', 'stump', 'snail']",69, how tf do you defeat the stump snail 
-3,"['nobody', 'tell', 'weight', 'lifting', 'simulator', 'lol']",70,nobody tell him about weight lifting simulator lol 
-4,"['lol', 'exactly']",144,lol how exactly 
-5,"['kinda', 'agree', 'ea', 'thingy']",200,i kinda have to agree with you with the ea thingy 
-6,"['much', 'agree']",277,i very much agree with you 
-7,"['cheer', 'lol']",420,this does cheer me up lol
-8,"['great', 'advise', 'thanks', 'tips', 'fixed', 'flair', 'post', 'see', 'submit', 'ticket', 'site']",459,great advise thanks for the tips i fixed the flair on this post and i will see if i can submit a ticket on their site 
-9,"['thanks', 'tips', 'talking']",520,thanks for the tips i'll be talking to her about this 
-10,"['gem', 'farm', 'tho']",564,you can gem farm tho
-11,"['agree', 'fav', 'game']",638,i don’t agree it my fav game
-12,"['bruh', 'op', 'mentality', 'child', 'lol', 'agree', 'bad', 'game']",642,bruh op have a mentality of a child lol but i agree it is a bad game
-13,['agree'],658,i agree
-14,['wth'],741,wth
-15,"['pay', 'win', 'lol']",793,it is pay to win lol
-16,"['got', 'huge', 'cat', 'lol', 'begging']",842,i got a huge cat lol just by begging
-17,['thank'],864,thank you
-18,"['illegal', 'lol']",872,it’s not illegal lol 
-19,"['thats', 'fine', 'lol']",921,thats fine lol
-20,"['yes', 'annoying']",939,yes but annoying
-21,['understandable'],954,understandable
-22,"['oh', 'damn', 'forgot', 'sorry']",979,oh damn i forgot about that sorry
-23,"['preston', 'sounds', 'like', 'predator']",997,preston sounds like predator 
-24,['thanks'],1071,thanks
-25,['thanks'],1079,thanks
-26,['thank'],1123,thank you 
-27,"['thanks', 'resource', 'links', 'check']",1150,thanks for the resource links i'll check them out 
-28,"['meh', 'understandable', 'could', 'learn', 'building', 'tho']",1153,meh that understandable she could learn building tho
-29,"['oh', 'ok', 'crazy', 'coincidence', 'lol']",1214,oh ok crazy coincidence lol
-30,"['sound', 'like', 'boomer', 'agree']",1247,you sound like a boomer that i agree with
-31,"['coughs', 'simulators']",1443,*coughs* simulators
-32,['agree'],1462,i agree 
-33,"['thanks', 'appreciate', 'support']",1468,thanks i appreciate the support 
-34,"['hey', 'good', 'idea', 'lol', 'need', 'think', 'something', 'actually', 'creative', 'lol']",1511,hey that is a good idea lol i need to think of something actually creative lol
-35,"['quit', 'crying', 'votes']",1568,quit crying about down votes; it's all you do
-36,"['thanks', 'everyone', 'appreciate', 'feedback', 'broke', 'news', 'nine', 'upset', 'free', 'robucks', 'lol']",1580,thanks everyone i appreciate the feedback i broke the news to him he's nine and he's upset that he can't have free robucks lol 
-37,"['microsoft', 'rewards', 'op', 'bought', 'like', 'rp']",1619,microsoft rewards are so op i've bought like rp with it
-38,"['awesome', 'tell', 'thanks', 'info']",1676,awesome i'll tell him about these thanks for the info 
-39,"['sure', 'thank']",1699,i’m sure i will thank you d
-40,"['hate', 'roblox', 'offense', 'op']",1751,i hate roblox no offense to op
-41,"['constitution', 'disagrees']",1802,the constitution disagrees
-42,"['agree', 'make', 'big', 'deal']",1843,i don't agree but i won't make a big deal out of it 
-43,"['money', 'bribe', 'officer']",1851,money to bribe the officer i have not 
-44,"['zero', 'build', 'ranked', 'aswell']",1895,is there zero build ranked aswell 
-45,"['sound', 'impressive', 'old', 'dirt']",1911,that does not sound impressive those are all old as dirt 
-46,"['interesting', 'lol']",1998,interesting lol
-47,"['already', 'lol', 'ever', 'heard', 'unreal', 'engine']",2059,they already do lol ever heard of the unreal engine 
-48,"['serious', 'cod', 'semi', 'serious', 'mw', 'waw', 'never', 'serious', 'two', 'entries']",2093,serious cod was semi serious with mw and waw but was never serious after those two entries
-49,"['yep', 'happy', 'waiting', 'black', 'ops', 'remastered', 'tyvm']",2146,yep i’m happy just waiting for black ops remastered tyvm
-50,"['dont', 'think', 'anything', 'creation', 'unreal', 'engine', 'tho']",2194,i dont think he had anything to do with the creation of unreal engine tho
-51,"['drop', 'without', 'gun', 'find', 'guns', 'random', 'except', 'boss', 'drops', 'built', 'particular', 'load', 'said', 'customize', 'order', 'guns', 'slot', 'inventory', 'assign', 'hot', 'keys', 'want']",2203,you drop without a gun and have to find them guns are random except for boss drops and can't be built into a particular load out that being said you can customize what order the guns will slot into your inventory and assign hot keys for them if you want to 
-52,"['oh', 'ok', 'thanks']",2209,oh ok thanks
-53,['lol'],2210,lol
-54,"['snoop', 'dogg', 'savage', 'also', 'cod', 'lol']",2223,snoop dogg and savage are also in cod lol
-55,"['booty', 'stuck', 'doorways']",2258,does her booty get stuck in doorways 
-56,"['nah', 'nah', 'nicki', 'boiling', 'point', 'apparently']",2259,nah nah nicki was the boiling point apparently 
-57,"['likely', 'gamer', 'longer', 'alive', 'crawl', 'back', 'hole', 'poser']",2271,it's very likely i've been a gamer longer than you've been alive crawl back into your hole poser 
-58,"['lol', 'yeah', 'kid', 'hilarious']",2313,lol yeah you’re a kid this is hilarious 
-59,['cringe'],2315,cringe
-60,"['perfect', 'response']",2333,perfect response
-61,"['awesome', 'thank']",2439,awesome thank you
-62,"['yeah', 'epic', 'got', 'obliterated', 'lol', 'everyone', 'went', 'ham', 'deserved']",2512,yeah epic got obliterated lol everyone just went ham on him deserved
-63,"['hmmmm', 'actually', 'agree', 'thanks', 'decent', 'rabid', 'redditor', 'people', 'like', 'wanted', 'made', 'comment', 'thank', 'edit', 'start', 'conversation', 'calling', 'astrosurfing', 'shill', 'though', 'appreciate', 'called', 'astrosurfer', 'yeah', 'shill', 'part', 'almost', 'forgot']",2523,hmmmm i actually agree with you thanks for being decent and not a rabid redditor people like you are all o wanted when i made my comment thank you edit you did start the conversation by calling me an astrosurfing shill though i do not appreciate being called an astrosurfer and yeah the shill part too i almost forgot 
-64,"['yeah', 'means', 'disagree', 'got', 'came', 'back', 'people', 'calling', 'disgusting', 'pathetic', 'corporate', 'shill', 'morals', 'lol']",2527,yeah it was at which means some disagree but then i got off for a while and came back to and people calling me a disgusting pathetic corporate shill with no morals lol
-65,['thank'],2884,thank you
-66,['thank'],2885,thank you
-67,['thank'],2894,thank you
-68,"['guess', 'go', 'thanks', 'insight']",2980,i guess i’ll just go f**k myself thanks for the insight
-69,['thank'],3003,thank you 
-70,"['lmao', 'read', 'wrong', 'thanks']",3020,lmao i read this very wrong thanks
-71,['lol'],3122,lol
-72,"['nephew', 'like', 'turtles']",3153,does your nephew like turtles
-73,['dunked'],3181,get dunked on 
-74,"['one', 'win']",3190,this one is for the win
-75,"['yeah', 'sure', 'also', 'heard', 'spiders', 'outside', 'thank']",3227,yeah sure but i also heard there are spiders outside no thank you 
-76,"['lol', 'reason', 'offended']",3241,lol there's no reason to get so offended
-77,"['shut', 'word', 'hole']",3260,why don't you shut your word hole
-78,"['sounds', 'great', 'might', 'save', 'wallet', 'sanity', 'lol']",3306,sounds great but might save my wallet and sanity for now lol
-79,"['roblox', 'haters', 'lol']",3358,roblox haters lol
-80,"['excellent', 'thank', 'sharing', 'keep', 'good', 'work']",3390,that's excellent thank you for sharing keep up the good work 
-81,"['turned', 'would', 'agree']",3411,just turned myself and i would have to agree 
-82,"['sounds', 'like', 'good', 'thing']",3422,sounds like a good thing
-83,['cringe'],3440, cringe
-84,"['sound', 'effect', 'gr', 'say']",3445,this sound effect is gr i have to say
-85,"['general', 'consensus', 'game', 'cringe']",3447,no no the general consensus is that the game is cringe😭 not you
-86,"['roblox_oof', 'mp', 'hbomberguy']",3462,roblox_oof mp by hbomberguy 
-87,"['oooh', 'like', 'one']",3476,oooh i like this one 
-88,"['mean', 'cant', 'quit']",3502,what do you mean you cant quit 
-89,"['know', 'fun', 'lol']",3511,i know but it's fun lol 😂
-90,"['thank', 'appreciate', 'response', 'nope', 'really', 'prepared', 'haha', 'def', 'wanted', 'check', 'options', 'appreciate']",3563,thank you i appreciate your response nope not really prepared for all that haha 😄 but def wanted to check my options i appreciate you 🙏
-91,"['oof', 'yall', 'speaking', 'foreign', 'look', 'thanks', 'bunch']",3564,oof now yall are speaking foreign to me 😅😅 i'll look into it thanks a bunch 
-92,"['ok', 'thanks']",3568,ok thanks 😊
-93,['lol'],3638,lol
-94,['agree'],3693,agree
-95,['thank'],3696,thank you
-96,"['neither', 'lol']",3752,neither lol 
-97,"['try', 'thanks']",3795,i will try it thanks 
-98,"['even', 'tell', 'apparently', 'load', 'nonces', 'apparently', 'terrorists', 'play']",3810,same i couldn't even tell you what it is other than that apparently a load of nonces and apparently now terrorists play it 
-99,['banter'],3859,banter
-100,"['moderators', 'swearing', 'fired', 'soon', 'incident']",3876,the moderators that were swearing were fired soon after the incident 
-101,"['community', 'cringe', 'tho']",3922,community cringe tho
-102,"['yeah', 'lol']",3930,yeah lol
-103,['thank'],3942,thank you
-104,"['thank', 'reply']",4099,thank you for your reply 
-105,"['ceo', 'busy', 'amas', 'reddit', 'lol']",4197,ceo was busy doing amas on reddit lol
-106,"['million', 'users', 'disagree']",4200, million users disagree with you 
-107,"['mine', 'stuck', 'dababy', 'hell', 'hole']",4205,mine was stuck in a dababy hell hole
-108,['thanks'],4237,thanks 
-109,"['okay', 'thanks']",4263,okay thanks
-110,"['let', 'fun', 'lol']",4273,just let him have fun lol
-111,"['xbox', 'controller', 'work', 'either']",4337,xbox controller should work either
-112,"['thanks', 'ears', 'bleeding']",4368,thanks my ears are bleeding 🤣
-113,['nope'],4382,nope
-114,['lol'],4454,lol
-115,"['gay', 'like', 'agree']",4584,both are gay like if u agree 
-116,"['thanks', 'advice', 'everyone', 'reddit', 'unique', 'ability', 'give', 'wonderfully', 'balanced', 'view']",4601,thanks for the advice everyone reddit is unique in its ability to give a wonderfully balanced view 
-117,['agreed'],4612,agreed
-118,['nope'],4619,nope 
-119,['lol'],4660,why lol
-120,['nope'],4671,nope
-121,"['ok', 'thank']",4677,ok thank you
-122,"['neither', 'good', 'luck', 'lol']",4682,me neither good luck lol
-123,"['mean', 'unwire', 'cables']",4805,you mean to unwire all of the cables 
-124,"['like', 'campaigns']",4828,i like the campaigns 
-125,['campaign'],4852,but the campaign 
-126,"['playing', 'mwiii', 'beta', 'nonstop', 'love', 'guns', 'feel', 'like', 'cw', 'super', 'fast', 'pew', 'pew', 'mf']",4858,i've been playing the mwiii beta nonstop and i love it the guns feel more like cw and it's super fast pew pew mf's 
-127,"['bringing', 'maps', 'back', 'atmosphere', 'without', 'british', 'voice', 'actor', 'emblems', 'titles', 'popping', 'kills', 'guns', 'sound', 'lame', 'usual', 'like', 'automatic', 'staple', 'guns', 'og', 'intervention', 'either', 'wack']",4926,they’re only bringing the maps back the atmosphere will not be the same without the british voice actor no emblems and titles popping up after kills guns sound lame as usual like automatic staple guns no og intervention either wack
-128,"['miss', 'world', 'war']",4967,i miss world at war
-129,"['sucker', 'campaigns', 'idk', 'say']",4976,i'm a sucker for the campaigns idk what to say
-130,"['battlebit', 'remastered']",5011,battlebit remastered is where it's at
-131,"['accurate', 'dlc', 'lol']",5017,accurate it’s just a dlc lol
-132,['sick'],5027,sick
-133,"['campaign', 'sale', 'drunk', 'thinking']",5028,i’ll get it for the campaign when it’s on sale or when i am drunk and not thinking
-134,"['pay', 'play', 'campaign', 'please', 'lemme']",5036,i’ll pay just to play the campaign please lemme
-135,"['included', 'lol']",5038,yourself included lol
-136,"['already', 'one', 'lol']",5114,didn't they already do that one lol 
-137,['lol'],5148,lol
-138,"['include', 'campaign']",5169,does it include the campaign 
-139,"['actually', 'made', 'lol', 'dead']",5180,this actually made me lol i’m dead
-140,"['ah', 'yes', 'akimbo', 'marathon', 'pro', 'super', 'serious']",5218,ah yes akimbo s with marathon pro were super serious
-141,"['say', 'since', 'black', 'ops']",5229,i'd say it has been since black ops
-142,"['lol', 'know', 'right']",5273,lol i know right
-143,"['right', 'judge', 'lol']",5278,i’m in my right to judge you lol
-144,"['wait', 'fifa', 'guns']",5337,wait it’s all fifa with guns 👨‍🚀🔫🧑‍🚀
-145,"['yes', 'clearly', 'agreeing', 'op', 'point']",5347,yes they were clearly agreeing with the op’s point ; 
-146,"['yeah', 'like', 'crosshair', 'sights', 'crazy', 'attachments', 'waw', 'golden', 'weapons', 'cod']",5397,yeah like those crosshair sights and crazy attachments we had in waw or those golden weapons from cod 
-147,"['one', 'best', 'campaigns']",5484,it had one of the best campaigns too 
-148,"['damn', 'horse', 'armor', 'downhill', 'literally', 'ceo', 'discussing', 'real', 'money', 'gun', 'reloads', 'stage', 'hated', 'typing']",5505,that damn horse armor it was all downhill from there we're literally at the ceo's discussing real money for gun reloads stage i hated typing that out
-149,['shipment'],5533,shipment 
-150,"['golden', 'weapons', 'precedent', 'minor', 'cultural', 'phenomenon', 'time', 'saddam', 'hussein', 'golden', 'weapons', 'captured', 'photographed']",5548,the golden weapons have precedent it was a minor cultural phenomenon at the time because saddam hussein's golden weapons had been captured and photographed 
-151,"['modern', 'warfare', 'campaigns', 'play', 'like', 'cold', 'war', 'movies', 'peak', 'michael', 'bay']",5567,the modern warfare campaigns play like cold war movies from the s or peak s michael bay 
-152,"['lol', 'already']",5618,lol why do that when they already do both 
-153,"['saw', 'something', 'ago', 'either', 'treyarch', 'activision', 'blizzard', 'large', 'patented', 'something', 'like', 'purchases', 'give', 'easier', 'lobbies', 'touted', 'people', 'like', 'blamed', 'truth', 'cod', 'rage', 'commentators', 'find', 'actual', 'sources', 'patent', 'claim', 'companies', 'filed', 'edit', 'actually', 'find', 'patent', 'activision', 'file', 'patents', 'google', 'com', 'patent', 'us', 'en']",5652,i saw something a while ago about how either treyarch or activision blizzard at large patented something like this where purchases give you easier lobbies and it's been touted by people like blamed truth and other cod rage commentators but you can't find any actual sources to the patent they claim the companies filed for edit i actually did find the patent that activision did file patents google com patent us b en
-154,"['upvoted', 'literally', 'dunked', 'man', 'lol']",5697,you won’t get upvoted but you literally dunked on that man lol 
-155,"['naw', 'literally', 'op', 'describing']",5722,naw what they literally do what op is describing
-156,['cringe'],5729,what in the cringe
-157,"['sound', 'fkn', 'stupid', 'lol', 'mcdonalds', 'got', 'go', 'back', 'playing', 'bummy', 'game', 'mommies', 'wifi']",5765,you sound fkn stupid lol mcdonalds that all you got what are go back playing your bummy game with your mommies wifi
-158,"['still', 'pissed', 'legit', 'spinning', 'th', 'prestige', 'emblem', 'literally', 'stayed', 'locked', 'like', 'could', 'unlock', 'bastards', 'never', 'let', 'us', 'think', 'criminal', 'went', 'gold', 'guns', 'maxing', 'camos', 'shitty', 'fall', 'camo']",5784,still pissed you couldn't legit get the spinning th prestige emblem it literally stayed locked like we could unlock it but those bastards never did let us think it's criminal how we went from gold guns for maxing out the camos to that shitty fall camo 
-159,"['lol', 'mean', 'like', 'red', 'blue', 'tiger', 'camo', 'golden', 'guns', 'shut', 'dude', 'arguing', 'someone', 'played', 'cod', 'mw', 'every', 'day', 'middle', 'school', 'shit', 'realistic', 'serious', 'sense']",5814,lol you mean like red blue tiger camo and golden guns shut up dude you're arguing with someone who played cod mw every day in middle school that shit was not realistic or serious in any sense 
-160,['thank'],5869,thank u again 
-161,['thank'],5870,thank u again
-162,['thank'],5871,thank u again 
-163,['thank'],5873,thank u again
-164,['thank'],5874,thank u again
-165,['thank'],5875,thank u again
-166,['thank'],5876,thank u again
-167,['thank'],5877,thank u again
-168,['thank'],5878,thank u again
-169,['thank'],5879,thank u again
-170,['thank'],5880,thank u again
-171,"['thank', 'wow', 'ur', 'much', 'help', 'lol']",5881,thank u again wow ur being so much of a help lol
-172,['thank'],5882,thank u again
-173,"['nice', 'working', 'dreamcast', 'hard', 'find', 'lol', 'glad', 'shenmue', 'systems', 'though', 'lol']",5901,nice to have a working dreamcast those are hard to find lol glad shenmue is on other systems though lol
-174,"['dreamcast', 'genesis', 'oh', 'hell', 'yeah']",5913,dreamcast and genesis oh hell yeah 
-175,"['use', 'scart', 'connections', 'use', 'composite', 'cables']",5941,do you use the scart connections or do you use composite cables 
-176,"['oh', 'god', 'amazing', 'kudos', 'op', 'delivery', 'service']",5961,oh my god that’s amazing kudos to op delivery service 
-177,['thank'],5969,why thank you 
-178,"['sounds', 'like', 'need', 'start', 'running', 'smash', 'bros', 'tourneys']",5974,sounds like you need to start running smash bros tourneys ;p
-179,['thank'],6000,thank you
-180,"['aiight', 'mr', 'diet', 'soda', 'lol']",6027,aiight mr diet soda lol
-181,['cringe'],6034,cringe 
-182,['thank'],6035,thank you 
-183,['appreciate'],6038,appreciate it^^
-184,"['show', 'rabbit', 'holes']",6051,can you show me some of those “rabbit holes”
-185,['nope'],6114,nope
-186,"['ok', 'wanted', 'see', 'lol']",6117,ok then i just wanted to see lol
-187,"['gonna', 'say', 'roundhouse', 'kick', 'temple', 'late', 'abortion', 'works']",6135,i was gonna say a roundhouse kick to the temple but late abortion works too 
-188,"['cough', 'cough', 'entry', 'point', 'cough', 'cough']",6156,cough cough entry point cough cough
-189,"['try', 'yet', 'thou', 'dumbfounded', 'words', 'lol']",6178, p s i did not try that yet thou i am dumbfounded by your words lol 
-190,['thanks'],6190,thanks that’s what i will do
-191,"['yeah', 'thanks']",6191,yeah thanks for that
-192,"['well', 'buy', 'op']",6240,well why did you buy it op 
-193,"['bought', 'lol']",6366,you bought it lol
-194,"['swear', 'meta', 'relabeled', 'vr', 'metaverse', 'vr', 'pokemon', 'shit', 'would', 'explode']",6407,i swear if meta relabeled their vr metaverse to vr pokemon that shit would explode 
-195,"['hey', 'op', 'part', 'problem']",6417,hey op you’re part of the problem 
-196,"['disagree', 'ps', 'textures']",6489,i disagree those are ps textures 
-197,"['exactly', 'profitable', 'lol']",6551,that’s exactly why they’re so profitable lol
-198,"['ps', 'awfully', 'generous']",6576,ps that's awfully generous 
-199,"['crying', 'baby', 'sound', 'effect']",6745,*crying baby sound effect*
-200,"['referring', 'pubg']",6901,they referring to pubg 
-201,"['ps', 'generous', 'right']",6911,ps is generous that's n right there
-202,"['ps', 'gfx', 'better', 'tho']",7127,ps gfx were better tho 
-203,"['quit', 'buying']",7271,quit buying it
-204,"['pokemon', 'fan', 'respectfully', 'admiringly', 'agree']",7290,as a pokemon fan i respectfully and admiringly agree
-205,"['insult', 'ps', 'games', 'like', 'lol']",7632,don't insult ps games like that lol
-206,"['hey', 'charm', 'ps', 'polygon', 'graphics', 'lol']",7636,hey there is some charm to ps polygon graphics lol
-207,"['thought', 'metaverse', 'lol']",7659,i thought this was metaverse lol
-208,"['yeah', 'motorcyclemons', 'lol']",7804,yeah the motorcyclemons weren’t it for me lol
-209,"['miss', 'ds', 'days']",8102,i miss the ds days…
-210,"['thank', 'nintendo', 'mobile', 'phone', 'gpu', 'switch']",8213,you thank nintendo and their mobile phone gpu on the switch for this 
-211,"['suits', 'patientgamers', 'better', 'lol']",8290,this suits r patientgamers better lol 
-212,"['please', 'quit', 'buying']",8491,please quit buying them then
-213,['lol'],8704,lol
-214,"['sounds', 'awfully', 'similar', 'us', 'madden']",9133,sounds awfully similar to us over in r madden
-215,"['damn', 'sounds', 'like', 'activision', 'wow', 'complainers']",9174,damn this sounds like activision wow complainers
-216,"['hahahhahaha', 'definitely', 'casual']",9230,hahahhahaha no it definitely hasn’t casual 
-217,"['completely', 'agree', 'vote', 'wallet']",9248,completely agree vote with your wallet
-218,"['ding', 'ding', 'ding']",9254,ding ding ding
-219,"['much', 'would', 'agree', 'mediocrity', 'criticized']",9407,as much as i would agree with you this is mediocrity and should be criticized 
-220,"['agree', 'well', 'said']",9451,i agree well said 
-221,"['definitely', 'worse', 'options', 'lol']",9458,there definitely are worse options lol
-222,"['totally', 'agree']",9598,totally agree 
-223,"['worst', 'lol']",9607,its worst lol 
-224,"['op', 'said', 'profitable']",9676,op said profitable
-225,"['lol', 'thanks', 'devs']",9820,lol thanks for the devs 
-226,"['ah', 'yes', 'lets', 'brush', 'shitty', 'capitalist', 'tactics', 'someday', 'mr', 'gamefreak', 'love', 'senpai']",9821,ah yes lets brush off shitty capitalist tactics because someday mr gamefreak will love you senpai
-227,"['canada', 'got', 'dragonite', 'gamestop', 'stamped', 'tcg', 'card', 'patch', 'starter', 'lanyard', 'preorder', 'double', 'pack', 'wife']",9918,i'm in canada and got a dragonite gamestop stamped tcg card a patch for each starter and a lanyard i preorder the double pack for me and my wife 
-228,"['damn', 'sure', 'na', 'potions', 'gamestop', 'lanyard', 'oh', 'also', 'stick', 'patches', 'pre', 'order', 'double', 'pack']",9923,damn not sure where in na they had potions at gamestop they had a lanyard oh also some stick on patches if you pre order the double pack 
-229,"['aww', 'sweeeeet', 'pen', 'gin']",10023,aww sweeeeet pen’gin 
-230,"['sound', 'torches', 'pitchforks', 'taken', 'heard', 'distance']",10111,*the sound of torches and pitchforks being taken up can be heard in the distance*
-231,"['yeah', 'sounds', 'good', 'guess']",10122,yeah sounds good to me i guess 
-232,"['almost', 'like', 'op', 'tried', 'shitty', 'screen', 'shot', 'updoots', 'hmmmmmm']",10148,it’s almost like op tried to get a shitty screen shot for updoots hmmmmmm 
-233,"['upload', 'twitter', 'download', 'pic', 'much', 'faster', 'connect', 'pc', 'usb', 'cable']",10202,just upload it to twitter and download the pic from there much faster or connect it to pc with usb cable 
-234,"['lol', 'taking', 'blame']",10211,lol they are taking the blame in 
-235,"['alcoholic', 'sounds', 'like', 'drug', 'addict']",10283,alcoholic sounds like a drug addict to me
-236,"['totally', 'agree']",10290,💯 totally agree
-237,['disagree'],10308,i don't disagree with you
-238,"['strangely', 'far', 'either']",10360,but strangely not too far either 
-239,"['thank', 'lol', 'people', 'downvoting']",10363,thank you lol at people downvoting 
-240,['thank'],10380,thank you
-241,"['gonna', 'argue', 'lol']",10393,not gonna argue at all lol
-242,"['thank', 'eventually', 'find']",10407,thank you i did eventually find it 
-243,"['oh', 'thank', 'play', 'idea']",10408,oh thank you i don't play it so i had no idea 
-244,['thank'],10409,thank you
-245,['lol'],10410,lol
-246,"['unlocked', 'memory', 'miss', 'training', 'camp']",10411,that unlocked a memory for me i miss training camp 
-247,['lol'],10428,lol
-248,"['thanks', 'brah', 'saved', 'scrolling', 'goodnight']",10510,thanks brah saved me some scrolling goodnight
-249,"['guess', 'something', 'appreciate', 'screenshots', 'alone']",10516,i guess this is something you can't appreciate from screenshots alone 
-250,"['ha', 'fixed', 'serious']",10610,ha fixed by then you can't be serious 
-251,['disagree'],10639, i disagree 
-252,['lol'],10678,lol no
-253,"['ooh', 'thank']",10683,ooh thank you 
-254,['thanks'],10686,thanks 
-255,"['connect', 'pc', 'via', 'usb', 'cable']",10836,you can connect to pc via usb cable
-256,"['color', 'humbled', 'bewildered', 'sir', 'speechless']",10860,color me humbled and bewildered sir i’m speechless
-257,['agree'],10884, agree
-258,"['oh', 'completely', 'understandable', 'yeah']",10893,oh that’s completely understandable yeah 
-259,['itrunsdoom'],10983, r itrunsdoom
-260,"['thanks', 'damn', 'legit', 'thought', 'wii', 'game', 'lol']",11014,thanks but damn i legit thought it was a wii game lol
-261,"['salty', 'bethesdha', 'baby', 'done', 'better', 'someone', 'else', 'lol']",11026,they are just as salty as bethesdha for having their baby done better by someone else lol
-262,"['hell', 'yeah', 'thanks']",11041,hell yeah thanks
-263,"['hell', 'yeah', 'thanks']",11043,hell yeah thanks
-264,"['aww', 'making', 'blush']",11170,aww you're making me blush
-265,['lol'],11207,lol 
-266,"['wait', 'treyarch', 'worked', 'cold', 'war', 'vanguard', 'came', 'cold', 'war']",11292,wait what treyarch worked on cold war and vanguard came out after cold war 
-267,"['hey', 'thanks']",11330,hey thanks 
-268,['lol'],11333,lol
-269,"['thank', 'completely', 'forgot', 'game', 'going', 'replay', 'sure', 'lol']",11464,thank you i completely forgot about that game i'm going to replay sure now lol
-270,"['agree', 'sentiment', 'crobat']",11531,i agree with this sentiment until i can get a crobat
-271,"['agree', 'couldve', 'left', 'opinion', 'love', 'sunshine', 'galaxy', 'go']",11595,agree the couldve been left out in my opinion but i love having sunshine and galaxy on the go
-272,"['interesting', 'hear', 'thanks', 'writing']",11597,very interesting to hear thanks for writing this 
-273,"['thank', 'educating']",11659,thank you for educating me 
-274,"['activision', 'calls', 'shots', 'iw', 'dynamic', 'studios', 'interesting', 'though', 'must', 'tension', 'treyarch', 'pick', 'slack', 'however', 'iw', 'taking', 'near', 'exclusive', 'lead', 'engine', 'development', 'well', 'leading', 'role', 'warzone', 'addition', 'fully', 'fledged', 'campaign', 'multiplayer', 'makes', 'sense', 'would', 'need', 'help', 'disagree', 'backdooring', 'rather', 'financial', 'decision', 'activision', 'studio', 'needs', 'help', 'finish', 'product', 'studio', 'still', 'deliver', 'viable', 'stunted', 'product', 'lending', 'additional', 'help', 'studio', 'short', 'term', 'profit', 'driven', 'thinking', 'profitable', 'nonetheless', 'extent', 'treyarch', 'victim', 'success', 'warzone', 'job', 'well', 'enough', 'able', 'fill', 'gaps', 'needed', 'think', 'iw', 'position', 'warzone', 'financial', 'darling', 'cod', 'right', 'even', 'activision', 'knows', 'slice', 'open', 'golden', 'goose']",11666,activision calls the shots here not iw the dynamic between the studios is interesting though and there must be some tension there with treyarch having to pick up slack however with iw taking the near exclusive lead in engine development as well as of a leading role in warzone in addition to a fully fledged campaign and multiplayer it makes sense that they would need some help i disagree that this is about backdooring but rather a financial decision from activision studio a needs help to finish their product studio b can still deliver a viable if stunted product while lending additional help to studio a short term profit driven thinking but profitable nonetheless to an extent treyarch is a victim of their own success and warzone's they do their job well enough that they are able to fill in the gaps where needed i don't think iw is in this position because warzone is the financial darling of cod right now and even activision knows not to slice open that golden goose 
-275,"['said', 'specifically', 'put', 'fixed', 'quotes', 'show', 'ops', 'definition', 'mine']",11691,not what i said i specifically put the fixed in quotes to show that it was by ops definition not mine 
-276,"['lol', 'remember', 'running', 'gag']",11742,lol i remember this was a running gag
-277,"['hahah', 'thanks', 'got', 'great', 'taste', 'videogames']",11868,hahah thanks and you've got great taste in videogames 
-278,"['yea', 'sadly', 'thank']",11927,yea sadly thank u 
-279,"['sound', 'like', 'buthurt', 'weeb']",11943,and you sound like a buthurt weeb
-280,"['dude', 'playing', 'doom', 'sideloaded', 'quest', 'awesome', 'stuff', 'ever', 'lol']",11978,dude i've been playing doom sideloaded on the quest and it is the most awesome stuff ever lol
-281,"['got', 'serious', 'kick', 'part', 'apple', 'also', 'appreciate', 'least', 'koraidon', 'literally', 'toothless', 'dragon', 'yeah', 'introducing', 'koraidon', 'neat', 'like', 'way', 'handled', 'whole', 'sequence']",12086,i got a serious kick out of the part with the apple > i also appreciate that at least koraidon is literally just toothless the dragon yeah introducing koraidon was neat i like the way that was handled through that whole sequence 
-282,"['thought', 'eye', 'sight', 'lol']",12125,i thought it was my eye sight lol
-283,"['actually', 'teenager', 'lol']",12266,are you actually a teenager lol
-284,"['well', 'one', 'line', 'time', 'assembled', 'suppose', 'lol']",12295,well one line at a time until it’s assembled i suppose lol
-285,"['cool', 'sounds', 'good']",12344,cool sounds good 
-286,"['missed', 'stroke', 'guess', 'game', 'average', 'mf', 'lol']",12416,you missed you having a stroke are we i guess that's what the game does to the average mf lol 
-287,"['lol', 'heard', 'pokemon', 'showdown', 'missing', 'thing', 'thanks', 'waste', 'money', 'like', 'guys', 'lmao']",12419,lol have you heard of pokemon showdown not missing a thing thanks to it and i didn't have to waste money like you guys lmao
-288,"['yeah', 'sooooo', 'jealous', 'paying', 'spit', 'tpc', 'lol']",12428,yeah i am sooooo jealous of you paying to get spit on by tpc lol
-289,"['yeah', 'sooo', 'jealous', 'paying', 'spit', 'tpc', 'lol']",12444,yeah sooo jealous of you paying to get spit on by tpc lol
-290,"['explain', 'sonic', 'frontiers', 'figures', 'lol']",12451,can't explain sonic frontiers figures lol
-291,"['lol', 'imagine', 'paying', 'trash', 'hahahaha']",12461,lol imagine paying for trash hahahaha
-292,"['man', 'tired', 'making', 'fool', 'yet', 'god', 'war', 'ragnarok', 'come', 'lol']",12501,man how aren't you tired of making a fool of yourself yet when did god of war ragnarok come out again lol
-293,"['new', 'lol']",12518,new lol
-294,"['robux', 'robux', 'tho']",12527, robux is robux tho 
-295,"['thanks', 'check']",12561,thanks i’ll check this out
-296,"['cool', 'thanks', 'responding', 'info']",12577,cool thanks for responding with this info 
-297,"['oh', 'alright', 'thank']",12582,oh alright thank you
-298,['thank'],12588,thank you 
-299,"['okay', 'thank']",12627,okay thank you 
-300,"['yeah', 'snowy', 'strange', 'lol']",12634,yeah snowy is strange lol
-301,['lol'],12782,lol
-302,"['best', 'response']",13063,best response 
-303,"['smart', 'wise', 'response']",13064,very smart and wise response 
-304,"['call', 'play', 'date', 'hangout', 'lol']",13112,what do you call them if not play date a hangout lol
-305,"['totally', 'disable', 'chat', 'tho']",13131,can’t you just totally disable the chat tho 
-306,['lol'],13166,lol
-307,"['love', 'bed', 'wars', 'lol']",13199,same i love bed wars lol
-308,"['thank', 'perspective']",13232,thank you for your perspective
-309,"['thanks', 'really', 'helpful', 'know']",13259,thanks for this really helpful to know
-310,"['hell', 'come', 'lol']",13283,where the hell did that come from lol
-311,"['ah', 'interesting', 'thanks', 'info']",13286,ah interesting thanks for the info 
-312,"['like', 'pineapple', 'come', 'mean', 'vax', 'see', 'connection', 'lol']",13387,no like how did pineapple come to mean vax i don’t see a connection at all lol
-313,"['right', 'sounds', 'like', 'torture']",13454,right that sounds like torture to me 
-314,"['personal', 'opinion', 'disagree']",13461,i get that but that's their personal opinion with which i disagree 
-315,"['lol', 'maybe', 'rather']",13634,lol maybe she’d rather have…
-316,"['agree', 'take', 'sounds', 'concerning', 'obsessive']",13785,i agree with this take that sounds concerning and obsessive 
-317,"['thank', 'ultimately', 'decided']",13796,thank you this is ultimately what we decided to do 
-318,"['yaaaay', 'landfill', 'trash', 'excellent', 'idea']",13880,yaaaay for more landfill and trash what an excellent idea s
-319,"['thank', 'sane', 'response']",14298,thank you for your sane response 
-320,"['lol', 'porn', 'roblox', 'wtf']",14336,lol there is not porn on roblox wtf
-321,"['sounds', 'like', 'anime']",14687,sounds like an anime
-322,"['thank', 'appreciate', 'advice']",14843,thank you i appreciate your advice 
-323,"['amazing', 'thank', 'much']",14866,this is amazing thank you so much 
-324,"['oh', 'helpful', 'thank']",14884,oh that’s so helpful thank you 🙏🏾
-325,"['thank', 'much', 'roblox', 'equation']",14899,thank you all so much roblox is out of the equation 
-326,"['thank', 'really', 'helpful']",14908,thank you that’s really helpful 
-327,['groomers'],14983,groomers 
-328,"['hmmm', 'wander', 'lol']",14985,hmmm i wander why lol
-329,"['post', 'comment', 'gutrolling', 'lol', 'son', 'right', 'swear', 'god', 'sounds', 'exactly', 'imagine', 'nonstop', 'talking', 'bossiness', 'micromanaging', 'hilariously', 'irritating', 'love']",15067,your post and this comment have me gutrolling lol my son is only right now but i swear to god this sounds exactly how i imagine him when he's from the nonstop talking to the bossiness and micromanaging it's so hilariously irritating i love it
-330,['thank'],15087,thank you 💕
-331,"['thank', 'appreciate', 'sharing', 'experience']",15123,thank you i appreciate you sharing your experience 
-332,"['awesome', 'know', 'thank', 'much']",15131,awesome i didn't know that thank you so much 
-333,"['thank', 'definitely', 'enjoying', 'roblox', 'hahaha']",15193,thank you i definitely have been enjoying roblox too hahaha
-334,['thanks'],15291,thanks 
-335,"['sound', 'dramatic', 'lol']",15355,you sound so dramatic lol
-336,"['lol', 'rich']",15356,lol that’s why they’re rich 🤑
-337,"['look', 'thanks']",15410,will look more into it thanks
-338,['cheers'],15456,cheers 
-339,"['thank', 'canada', 'see', 'costco', 'might', 'something', 'available']",15463,thank you we are in canada so i will see if costco might have something available 
-340,['appreciated'],15648,appreciated 
-341,['lol'],15789,lol
-342,"['wowzers', 'yeah', 'crazy', 'easy', 'cellphone', 'go', 'missing', 'shucks']",15790,wowzers yeah it's crazy how easy a cellphone can go missing shucks 
-343,"['wrong', 'op']",15846,you aren’t wrong op 
-344,['agree'],15901,agree
-345,"['sound', 'easy', 'along', 'pleasant', 'around']",15919,you sound easy to get along with and pleasant to be around 
-346,['agreed'],15920,agreed 
-347,"['good', 'advice', 'thanks']",15925,good advice thanks
-348,"['good', 'advice', 'thanks']",15926,good advice thanks
-349,['agreed'],15928,agreed
-350,"['accidentally', 'tho']",15941,accidentally tho
-351,"['also', 'agree']",15968,also agree
-352,"['reddit', 'lol', 'every', 'mil', 'evil', 'underhanded', 'intentions']",16015,this is reddit lol every mil is evil with underhanded intentions 
-353,"['ding', 'ding', 'ding', 'correct', 'dealing', 'kids', 'definitely', 'need', 'adult', 'conversation', 'lol', 'sorry', 'bugs', 'tho', 'seeing', 'thank', 'god', 'like', 'read', 'lol']",16127,ding ding ding you're correct i've been dealing with kids i definitely need more adult conversation lol sorry if that bugs you tho seeing you are here thank god you like to read lol
-354,"['recommend', 'murder', 'mean', 'helpful', 'suggestions', 'better', 'thanks']",16375,what do you recommend murder i mean helpful suggestions are better thanks 
-355,"['wonder', 'mine', 'kept', 'lol', 'like', 'wth', 'going']",16401,i wonder if that’s how mine kept doing it lol i was like wth is going on here
-356,"['thanks', 'options', 'mesh', 'wifi', 'use', 'routing', 'guess', 'look', 'deeper', 'options', 'unifi', 'pi', 'hole']",16444,thanks i have options in my mesh wifi but i can’t use them because it’s not doing my routing i guess i’ll have to look deeper into options with unifi or pi hole 
-357,['op'],16446,[op] 
-358,"['agreed', 'lol', 'upset', 'account', 'years']",16450,agreed lol he was so upset he'd had the account for years
-359,"['good', 'reminder', 'thank']",16932,such a good reminder thank you 
-360,"['tell', 'said', 'thank']",16976,tell him i said thank you 😊
-361,"['wanna', 'come', 'lol']",16993,i wanna come lol
-362,"['okay', 'definitely', 'spiked', 'lemonade', 'right', 'going', 'back', 'forth', 'one']",16994,okay so that was definitely spiked lemonade right i've been going back and forth on that one 
-363,"['loser', 'response', 'lol']",17000,what a loser response lol
-364,"['year', 'olds', 'looking', 'older', 'lol']",17003,i’m and there’s year olds looking older than me too lol
-365,"['thank', 'lol', 'getting', 'downvoted', 'buncha', 'folks', 'recall']",17021,thank you lol getting downvoted by a buncha folks who can’t recall being 
-366,"['yes', 'agree', 'sorry', 'happened']",17037,yes 😭 agree and sorry that happened to u
-367,"['validating', 'thank']",17060,this is so validating thank you 
-368,['agreed'],17065,agreed 
-369,"['dramatic', 'obligated', 'helpful']",17103,that’s so dramatic why am i obligated to be helpful 
-370,"['thankful', 'know', 'im', 'alone', 'response', 'much', 'appreciated']",17150,i'm so thankful to know im not alone your response is much appreciated 
-371,"['thank', 'suggestion']",17151,thank you for the suggestion 
-372,"['needed', 'words', 'thank']",17157,i needed these words thank you 
-373,['agreed'],17228,agreed 
-374,"['thank', 'great', 'advice', 'thanks', 'spending', 'time', 'reply', 'good', 'tips']",17273,thank you great advice thanks for spending the time to reply with some good tips
-375,"['definately', 'waste', 'lol', 'thank', 'least', 'crazy', 'thinking', 'like']",17311,> its definately a waste lol thank you at least i am not crazy for thinking like this 
-376,"['thank', 'much']",17324,thank you so much 
-377,['thank'],17325,thank you 
-378,['thank'],17326,thank you 
-379,"['thank', 'sounds', 'reasonable']",17328,thank you that sounds reasonable 
-380,['agree'],17360,i agree 
-381,['wat'],17383,wat 
-382,"['thanks', 'pointing', 'missed', 'thread', 'good', 'info']",17393,thanks for pointing that out i'd missed that thread good info there 
-383,"['think', 'much', 'would', 'miss', 'child', 'yeeting', 'stratosphere']",17477,did you think about how much you would miss your child after yeeting them into the stratosphere 
-384,"['sounds', 'age', 'appropriate']",17685,sounds age appropriate to me 
-385,"['yes', 'disservice']",17707,yes you’re doing her a disservice 
-386,['agree'],17862,i agree with you 
-387,"['charles', 'schwab', 'app', 'like', 'agree', 'points']",17869,charles schwab app is for like + agree with your points
-388,"['disagree', 'also', 'think', 'outdated', 'use', 'abercrombie', 'jeans', 'holes', 'funny']",18038,i disagree with you and also think your outdated use of abercrombie jeans with holes is funny
-389,"['guess', 'password', 'lol']",18387,if they can guess your password that's on you lol 
-390,['thank'],18401,thank you 
-391,['thank'],18403,thank you ❤️
-392,"['think', 'sounds', 'like', 'great', 'path', 'forward', 'thank']",18404,i think this sounds like a great path forward thank you 
-393,['thank'],18405,thank you 
-394,['lol'],18415,same lol
-395,"['lol', 'love']",18436,lol i love it ❤️
-396,"['nice', 'good', 'know', 'thank']",18450,nice that's good to know thank you 
-397,"['yeah', 'thanks', 'lot']",18488,yeah thanks a lot 
-398,"['agree', 'clearly', 'style', 'everyone', 'agrees', 'imo', 'regular', 'chores', 'givenbut', 'extra', 'chores', 'rewardable', 'kids', 'adults']",18572,i agree but this is clearly not the style everyone agrees with imo regular chores are a given…but extra chores are rewardable for kids and adults 
-399,"['king', 'hill', 'reference', 'peggy', 'hill', 'catch', 'phrase', 'lol']",18646,it’s a king of the hill reference… it’s peggy hill’s catch phrase lol
-400,"['thought', 'sound', 'letterkenny']",18654,i thought it was the sound they do in letterkenny 🤷🏼‍♀️
-401,"['hoooyeahhh', 'moaning', 'sound']",18656,“hoooyeahhh” is not a moaning sound @__@
-402,"['sounds', 'like', 'going', 'vacation']",18734,sounds like you are going on vacation
-403,"['think', 'op', 'quit', 'active', 'duty', 'military', 'service', 'given', 'circumstances', 'think', 'fantastic']",18829,i don't think op can just 'quit' active duty military service given the circumstances i think he's doing fantastic 
-404,['agree'],18831,i agree with this 
-405,"['real', 'helpful', 'bud']",18840,real helpful bud
-406,['thank'],18843,thank you for that
-407,"['yep', 'introvert', 'adhd', 'gets', 'overstimulated', 'easily', 'extrovert', 'never', 'stops', 'talking', 'lol']",18985,yep i’m an introvert with adhd that gets overstimulated easily and he’s and he’s an extrovert that never stops talking lol
-408,"['lol', 'jus', 'wait', 'til']",19078,lol jus wait til they’re it’s x 
-409,"['yup', 'lol']",19101,yup lol
-410,"['really', 'care', 'pew', 'pew', 'pew', 'thing', 'craze', 'kid']",19125,i really don't care about what pew pew pew thing is all the craze i get it i was a kid once once 
-411,"['everyday', 'wake', 'ramblings', 'precocious', 'yo', 'stop', 'asleep', 'night', 'thank', 'god', 'airpods', 'podcasts']",19142,everyday i wake up to the ramblings of a precocious yo and it does not stop until he's asleep at night thank god for airpods and podcasts 
-412,['lol'],19181,lol
-413,"['yeeep', 'lol']",19190,yeeep lol
-414,"['thank', 'god']",19239,thank god i am with you 
-415,"['mine', 'missed', 'memo', 'stopped', 'making', 'noise', 'since', 'came']",19283,mine missed that memo he's and hasn't stopped making noise since he came out of me 
-416,"['sound', 'pollution', 'excellent', 'explanation']",19286, x the sound pollution excellent explanation 
-417,"['omg', 'sound', 'pollution', 'word', 'looking', 'motherhood', 'hate', 'sound', 'pollution']",19293,omg sound pollution is the word i've been looking for all my motherhood 😂 i hate sound pollution 
-418,"['kind', 'thank', 'award']",19325,you are too kind and thank you for the award 
-419,['disagree'],19403,i disagree 
-420,"['plan', 'sounds', 'great']",19530,your plan sounds great
-421,['classrooms'],19593,not classrooms over 😂😂😂😂😂
-422,"['god', 'miss', 'payless', 'appreciate', 'like', 'kid', 'miss', 'chunky', 'wedge', 'heel', 'sandals', 'would', 'buy', 'ballet', 'flats', 'nevermind', 'fact', 'wear', 'heels', 'anymore', 'make', 'ankles', 'collapse', 'thanks', 'hypermobility']",19598,god i miss payless i didn’t appreciate them like i should’ve when i was a kid i miss my chunky wedge heel sandals i would buy from there and the ballet flats 😩 nevermind the fact that i can’t wear heels anymore because they make my ankles collapse 🤣 thanks hypermobility 
-423,"['thank', 'kindly']",19611,thank you kindly 🌻
-424,"['agreed', 'soooo', 'comfy']",19648,agreed soooo comfy 
-425,"['make', 'stop', 'lol']",19676,don't make them stop lol
-426,"['well', 'ur', 'kids', 'saints', 'cuz', 'drew', 'portrait', 'yr', 'old', 'poo', 'emoji', 'drew', 'ad', 'word', 'mother', 'fuc', 'think', 'ur', 'winning', 'give', 'props', 'spelling', 'properly', 'lol']",19680,well ur kids are saints cuz i drew a portrait of my yr old as the poo emoji and she drew me ad the word mother fuc**r so i think ur winning i did give her props for spelling properly lol
-427,"['yikes', 'got', 'bad', 'advice', 'agree']",19763,yikes you got some bad advice before i agree 
-428,"['thank', 'adjust', 'filters', 'accordingly']",19792,thank you i will adjust filters accordingly 
-429,"['thanks', 'check', 'really', 'helplful']",19808,thanks will check out really helplful 
-430,"['set', 'alexa', 'reminder']",19881,set an alexa reminder for him
-431,"['yes', 'agree', 'ready', 'yet']",19891,yes i agree with you he's not ready yet 
-432,['thank'],19902,thank you 
-433,"['sounds', 'like', 'natural', 'consequences', 'would', 'grandma', 'eating', 'charge', 'sorry', 'parent', 'generations', 'well', 'op']",19930,sounds like the natural consequences would be grandma eating the charge sorry you have to parent “up” the generations as well as down op 
-434,"['agree', 'give', 'tracphone']",19955,i agree i'd give her a tracphone
-435,"['pampering', 'child', 'abusive', 'make', 'sound', 'called', 'violent', 'beatings']",20010,not pampering a child is abusive now you make it sound as if i called for violent beatings 
-436,"['excellent', 'response']",20109,excellent response 
-437,['agree'],20111,agree here
-438,"['great', 'point', 'thanks', 'bringing', 'agree']",20114,this is a great point and thanks for bringing it up i agree with you 
-439,"['oooh', 'interesting', 'thanks', 'idea']",20142,oooh that's interesting thanks for the idea
-440,"['good', 'advice', 'thank']",20196,this is good advice thank you
-441,"['really', 'dinosaurs', 'minecraft', 'lol']",20235,both he’s really into dinosaurs and minecraft lol
-442,"['thank', 'know', 'missed', 'lego', 'video', 'games', 'lol']",20236,thank you i don’t know how i missed that lego has video games lol 
-443,"['oh', 'sounds', 'awesome', 'thanks']",20237,oh that sounds awesome thanks
-444,"['thank', 'great', 'suggestions', 'gamer', 'even', 'know', 'start', 'lol']",20241,thank you some great suggestions i am not a gamer so i don’t even know where to start lol
-445,"['ooohh', 'awesome', 'thanks']",20243,ooohh awesome thanks
-446,"['oh', 'sounds', 'interesting', 'thanks']",20244,oh that sounds interesting thanks
-447,"['lol', 'love']",20252,lol love it 
-448,"['mashed', 'potatoes', 'lol']",20285,mashed potatoes lol
-449,"['thanks', 'leaning', 'towards', 'well']",20293,thanks this is what i was leaning towards as well 
-450,['thank'],20294,thank you 
-451,"['thank', 'welcome']",20295,>thank you you're welcome 
-452,"['sows', 'clothes', 'picturing', 'fields', 'clothes', 'sprouting', 'like', 'corn', 'thank', 'chuckle']",20554,> she sows their clothes i am picturing fields of clothes sprouting up like corn thank you for the chuckle 
-453,"['hiiii', 'touched', 'mh', 'completely', 'missed', 'iceborne', 'mine', 'husband', 'goal', 'defeat', 'fatalis', 'least', 'time', 'grind']",20580,hiiii i haven't touched mh in a while and completely missed out on iceborne but mine and husband goal is to defeat fatalis at least once when we have time to grind again 
-454,"['thanks', 'even', 'notice']",20585,thanks i didn’t even notice i did that 
-455,"['dirty', 'ones', 'lol']",20590,only the dirty ones do that lol
-456,"['mom', 'sounds', 'like', 'rockstar']",20592,your mom sounds like a rockstar 
-457,"['aww', 'thanks', 'sure']",20605,aww thanks i’m sure you are too ☺️
-458,"['silly', 'miss', 'obvious', 'connection', 'beloved', 'classic', 'thank']",20648,how silly of me to miss the obvious connection to a beloved classic thank you 
-459,"['thank', 'great', 'insight', 'totally', 'agree']",20777,thank you that’s a great insight i totally agree 
-460,"['thank', 'sharing', 'experience', 'agree', 'many', 'points']",20781,thank you for sharing your experience i agree with you on many points 
-461,"['oh', 'sweet', 'thank', 'suggestions', 'great', 'ideas']",20828,oh sweet thank you for the suggestions those are some great ideas 
-462,"['thank', 'wonderful', 'advice', 'wants', 'ooh', 'nice', 'find', 'clay', 'kits', 'thank', 'thank']",20829,thank you for the wonderful advice i will just get her what she wants ooh nice find on the clay kits thank you thank you
-463,"['ask', 'opinions', 'inciting', 'divisive', 'behavior', 'thank']",20837,and this is why i ask for opinions before inciting divisive behavior thank you 
-464,"['amen', 'mine', 'haaaalllpppp']",20923,amen mine are m f haaaalllpppp
-465,"['thanks', 'suggestions', 'good', 'ideas', 'sound', 'like', 'fun']",21044,thanks for all your suggestions some good ideas on here some of which sound like fun for me too 
-466,"['thank', 'look', 'bark']",21137,thank you will look into bark
-467,"['thank', 'explaining']",21154,thank you for explaining 
-468,"['know', 'lol']",21158,i know lol
-469,"['yes', 'changed', 'thanks']",21202,yes you can and i changed it to that thanks 
-470,['thanks'],21371,thanks 
-471,"['ah', 'seen', 'krampus', 'heard', 'great', 'film', 'thanks', 'warning', 'santa', 'lol']",21372,ah i haven’t seen krampus but heard it’s a great film thanks for the warning about santa lol 
-472,"['remember', 'seeing', 'cinema', 'think', 'like', 'thanks']",21375,i remember seeing that at the cinema and i think she will like it too thanks 
-473,"['thanks', 'seek']",21383,thanks will seek it out 
-474,"['parent', 'hermitcraft', 'good', 'tread', 'carefully', 'op', 'may', 'addicted']",21447,not a parent but hermitcraft is so good tread carefully op you may get addicted to it 
-475,"['thank', 'much']",21505,thank you so much 
-476,['nope'],21553,nope
-477,"['thanks', 'reply', 'appreciate']",21571,thanks for your reply i appreciate that
-478,['thanks'],21623,thanks for this 
-479,"['think', 'run', 'ideas', 'welcome', 'lol']",21636,i think i’ve run out so ideas are welcome lol 
-480,"['thank', 'much', 'advice']",21726,i will thank you so much for the advice
-481,['thank'],21753,thank you for this 
-482,"['see', 'thank']",21755,i see thank you for this 
-483,['thank'],21792,thank you
-484,['agree'],21793,agree with this
-485,"['true', 'thank']",21794,that's true thank you 
-486,['thank'],21801,thank you
-487,"['taken', 'commenters', 'suggestions', 'thank']",21808,i've taken other commenters suggestions thank you 
-488,"['good', 'idea', 'thank']",21856,good idea thank you 
-489,"['might', 'work', 'discuss', 'hubby', 'thank', 'tou']",21877,that might work i’ll discuss it with hubby thank tou
-490,"['thanks', 'roblox', 'tips', 'seems', 'like', 'biggest', 'game', 'moment', 'also', 'check', 'abcya', 'thanks']",21923,thanks for the roblox tips it seems like the biggest game at the moment i’ll also check out abcya thanks 
-491,"['great', 'roblox', 'tips']",21924,great roblox tips 
-492,"['kids', 'amazing', 'downloadinng', 'mods', 'troubleshooting', 'thinking', 'sources', 'etc', 'considered', 'definitely', 'agree']",21960,my kids are amazing with the downloadinng mods troubleshooting thinking about sources etc i hadn't considered this but i definitely agree 
-493,"['sounds', 'fun']",21964,sounds fun 
-494,"['yepp', 'adhd', 'therapist', 'lol']",21977,yepp i have adhd and do that and i'm a therapist lol
-495,"['ooh', 'maybe', 'download', 'one', 'games', 'stack', 'blocks', 'make', 'loves', 'thanks', 'suggestion']",21990,ooh maybe she did download one of those games where you stack the blocks to make and loves that thanks for the suggestion 
-496,"['thank', 'like', 'idea']",22010,thank you i like that idea 
-497,"['like', 'thank']",22011,i like it thank you 
-498,"['thank', 'much']",22017,thank you so much 😊
-499,"['thanks', 'fir', 'reply', 'def', 'leave', 'something', 'spend', 'even', 'thought', 'yet', 'lol']",22047,thanks fir your reply will def leave something out for her to spend i hadn't even thought of that yet lol
-500,['agreed'],22245,agreed
-501,"['love', 'roblox', 'lol']",22301,they love their roblox lol
-502,"['agree', 'family', 'dynamics', 'difficult', 'read', 'sound', 'like', 'peaceful', 'household']",22413,i agree the family dynamics were difficult to read it doesn’t sound like a peaceful household at all 
-503,"['thank', 'much']",22574,thank you so much 
-504,"['thanks', 'thats', 'really', 'helpful']",22576,thanks thats really helpful 
-505,"['appreciate', 'response']",22620,i appreciate your response ❤️❤️❤️❤️
-506,['agree'],22644,agree
-507,"['right', 'best', 'luck', 'religious', 'man', 'damned', 'continue', 'pray', 'whatever', 'god', 'love', 'patience', 'wisdom', 'lol', 'woods', 'yet', 'either', 'homeboy', 'xbox', 'time', 'yesterday', 'starting', 'today', 'lol']",22720,right on best of luck to you not a religious man but i'll be damned if i don't continue to pray to whatever god for love patience and wisdom lol not out of the woods yet either homeboy did not get xbox time yesterday starting over today lol
-508,"['like', 'thanks']",22730,i like it thanks 
-509,"['thanks', 'great', 'tips', 'try', 'frisbee', 'one', 'right']",22731,thanks those are great tips i will try the frisbee one out right now 
-510,"['thanks', 'good', 'know']",22796,thanks good to know 
-511,['thank'],22833,thank you 
-512,"['thanks', 'babe']",22862,thanks babe 
-513,"['hope', 'thanks']",22875,i can but hope thanks 
-514,"['problem', 'thank', 'advice', 'may', 'want', 'redirect', 'top', 'level', 'op']",22891,i’m not having this problem but thank you for the advice you may want to redirect it top level for the op 
-515,"['perfect', 'thank', 'much']",22910,perfect thank you so much
+1,"['lol', 'exactly']",144,lol how exactly 
+2,['quick'],239,that was quick 
+3,"['play', 'os', 'runescape']",304,you play os runescape 
+4,"['frustrating', 'baby', 'scanned', 'ultra', 'rare', 'frost', 'dragon', 'adopt', 'nothing', 'done', 'super', 'upsetting']",418,this is very frustrating my baby was scanned out of her ultra rare frost dragon in adopt me and nothing can be done about it super upsetting 
+5,"['cheer', 'lol']",420,this does cheer me up lol
+6,"['rogue', 'lineage', 'verdant', 'moon', 'arsenal', 'phantom', 'forces', 'guns', 'skill', 'fighting', 'game', 'anomic', 'electric', 'state', 'darkrp', 'could', 'keep', 'going', 'top', 'head']",778,rogue lineage verdant moon arsenal phantom forces guns = = skill fighting game anomic electric state darkrp i could keep going but this is all i can get off the top of my head
+7,"['pay', 'win', 'lol']",793,it is pay to win lol
+8,['slaves'],808,slaves 
+9,"['pay', 'win', 'fuck']",841,they're pay to win as fuck
+10,"['cope', 'seethe', 'shiver']",855,cope seethe and shiver
+11,['understandable'],954,understandable
+12,"['oh', 'ok', 'crazy', 'coincidence', 'lol']",1214,oh ok crazy coincidence lol
+13,"['sound', 'like', 'boomer', 'agree']",1247,you sound like a boomer that i agree with
+14,"['anyone', 'remember', 'roblox', 'battle', 'remastered', 'back', 'dead', 'servers', 'empty']",1309,anyone remember roblox battle they remastered it back in its dead now the servers are empty
+15,"['quit', 'remember', 'going', 'refund']",1389,if she does quit remember **they are not going to refund you **
+16,"['remember', 'strife', 'forever', 'alpha', 'bloxburg', 'forever', 'beta']",1431,remember strife forever alpha bloxburg forever beta 
+17,"['missing', 'idea', 'bosses', 'already', 'implemented']",1458,i've been missing out i had no idea that bosses had already been implemented 
+18,"['understandable', 'great', 'day']",1719,understandable have a great day 
+19,"['found', 'phantom', 'forces', 'day', 'hell', 'roblox', 'better', 'shooter', 'cod', 'games']",1724,i just found out about phantom forces the other day and why the hell does roblox have a better shooter than most cod games
+20,"['getting', 'major', 'club', 'penguin', 'vibes']",1758,getting major club penguin vibes from this
+21,"['crashing', 'couch', 'week', 'technically', 'homeless', 'jean', 'ralphio']",1769, crashing on your couch for a week because *technically i'm homeless* jean ralphio
+22,['relatable'],1781,relatable
+23,"['literally', 'phantom', 'forces', 'server']",1794,this is literally any phantom forces server
+24,"['constitution', 'disagrees']",1802,the constitution disagrees
+25,"['imagine', 'money', 'sony', 'microsoft', 'leaving', 'table', 'charge', 'play', 'game', 'online', 'locking', 'multiplayer', 'behind', 'subscription', 'always', 'stupid', 'glad', 'see', 'finally', 'biting', 'ass', 'big', 'traditional', 'multiplayer', 'games', 'go', 'free', 'play', 'ps', 'fucked']",1879,now imagine all the money sony and microsoft are leaving on the table because they can't charge you to play this game online locking multiplayer behind a subscription has always been stupid and i'm glad to see it finally biting them in the ass if other big traditional multiplayer games go free to play ps+ is fucked 
+26,"['cod', 'sucks', 'right']",1884,cod sucks right now too 
+27,"['zero', 'build', 'ranked', 'aswell']",1895,is there zero build ranked aswell 
+28,"['well', 'crazy', 'good', 'statistic']",1904,well that is a crazy good statistic 
+29,"['play', 'fornite', 'onlyup', 'finished', 'chapter', 'chapter', 'jumping', 'pads', 'annoying']",1918,i only play fornite onlyup finished chapter & chapter with the jumping pads is very annoying 
+30,"['cheating', 'situation', 'bad', 'cod', 'really', 'looking', 'game', 'play', 'small', 'number', 'cheaters', 'none', 'prolly', 'wishful', 'thinking']",1929,is the cheating situation as bad as cod i am really looking for a game to play that has a small number of cheaters to none prolly wishful thinking
+31,"['month', 'since', 'played', 'cod', 'playing', 'friends', 'really', 'fun', 'issue', 'couple', 'use', 'actually', 'good', 'games', 'kd', 'wise', 'next', 'matches', 'felt', 'like', 'sweating', 'cod', 'champs', 'could', 'barely', 'go', 'positive', 'rage', 'quit', 'back', 'since', 'lol', 'sbmm', 'ruined', 'franchise']",1950,been about a month since i’ve played cod was playing with friends and it was really fun but the issue was a couple of use were actually having good games kd wise the next matches felt like we were sweating for cod champs and could barely go positive we all rage quit and haven’t been back on since lol sbmm ruined this franchise 
+32,"['weird', 'despite', 'minecraft', 'good', 'fortnite', 'bad', 'memes', 'actually', 'think', 'fortnite', 'fun', 'embrace', 'absurdity', 'crossover', 'skins', 'experience']",1953,it’s weird that despite all the “minecraft good fortnite bad” memes i actually think fortnite is fun just embrace the absurdity of all its crossover skins and it’s an experience 
+33,"['play', 'grandsons', 'liked', 'warzone', 'played', 'bit', 'liked', 'progressing', 'gun', 'current', 'fortnite', 'fun', 'modify', 'gun', 'ever', 'loadouts', 'think', 'boys', 'quit', 'cod', 'altogether', 'play', 'cool', 'skins', 'would', 'obsolete', 'year', 'game']",1957,i play with my grandsons they liked warzone and i played with them a bit i liked progressing my gun this current fortnite is fun because i can modify my gun now if they ever just have loadouts i think that’s when the boys will quit cod altogether and just play this i have some cool skins that would have been obsolete after a year on any other game 
+34,"['cod', 'became', 'joke', 'game', 'mp', 'campaign', 'neglected', 'favour', 'warzone', 'crappy', 'cosmetics', 'mention', 'tie', 'games', 'together', 'mw', 'game', 'needed', 'gb', 'update', 'mw', 'ffs']",1961,cod became a joke of a game the mp and campaign is neglected in favour of warzone and crappy cosmetics not to mention they tie all their games together now my mw game needed a gb update because of mw ffs
+35,"['surprised', 'considering', 'state', 'cod', 'warzone']",1975,not surprised considering the state of cod warzone
+36,"['meanwhile', 'fortnite', 'haters', 'fortnite', 'community', 'dead', 'game']",1986,meanwhile fortnite haters and fortnite community dead game 💀
+37,"['turning', 'cod', 'serious', 'fps', 'arcade', 'shooter', 'money', 'grabbing', 'carnival', 'fps', 'arcade', 'shooter']",1991,and turning cod from a serious fps arcade shooter into money grabbing carnival fps arcade shooter 
+38,"['interesting', 'lol']",1998,interesting lol
+39,"['fuck', 'epic']",1999,fuck epic
+40,"['zero', 'build', 'awesome', 'makes', 'wish', 'fortnite', 'arena', 'style', 'mode', 'alongside', 'br']",2018,zero build is awesome makes me wish fortnite had an arena style mode alongside its br 
+41,"['point', 'fortnite', 'without', 'build', 'become', 'mediocre', 'shooter', 'skill', 'expression', 'considering', 'aim', 'half', 'rng', 'due', 'bloom', 'building', 'outclassed', 'someone']",2022,what's the point of fortnite without build wouldn't it just become a mediocre shooter where's the skill expression considering aim is half rng due to bloom building was how you outclassed someone 
+42,"['already', 'lol', 'ever', 'heard', 'unreal', 'engine']",2059,they already do lol ever heard of the unreal engine 
+43,"['yeah', 'matches', 'battle', 'royale', 'go', 'play', 'rocket', 'racing', 'inside', 'fortnite', 'survival', 'mode', 'lego', 'fortnite', 'rock', 'ban', 'fortnite', 'festival']",2075,yeah after matches of battle royale you can go play rocket racing inside fortnite and the survival mode lego fortnite or rock ban fortnite festival too 
+44,"['lot', 'cod', 'fans', 'migrating', 'fortnite', 'finally', 'something', 'competing', 'cod', 'tried', 'like', 'fortnite', 'wrong', 'ways', 'literally', 'adding', 'nicki', 'minaj', 'made', 'many', 'diehard', 'cod', 'fans', 'say', 'fuck', 'stop', 'playing', 'riding', 'dick', 'hard', 'fuck', 'years']",2084,and a lot of cod fans are migrating to fortnite because there’s finally something competing with it cod tried to be like fortnite in all the wrong ways literally just adding nicki minaj made so many diehard cod fans say fuck it and stop playing after riding it’s dick hard as fuck for years
+45,"['remember', 'back', 'around', 'would', 'call', 'games', 'like', 'quake', 'unreal', 'arcade', 'shooters', 'differentiate', 'realistic', 'shooters', 'like', 'cod', 'counter', 'strike', 'saying', 'wrong', 'interesting', 'language', 'changed', 'industry', 'broadened', 'even', 'realistic', 'shooters', 'cod', 'mention', 'cod', 'liberal', 'realism', 'time', 'term', 'arena', 'shooter', 'coined', 'around', 'stuck']",2086,i remember back around we would call games like quake and unreal as arcade shooters to differentiate them from the realistic shooters like cod and counter strike not saying you're wrong but it's just interesting that the language has changed as the industry has broadened there are now even more realistic shooters than cod and not to mention cod itself has been more liberal with its realism at the same time the term arena shooter was coined around and stuck 👴
+46,"['cod', 'always', 'money', 'grabbing', 'shooter']",2087,cod has always been a money grabbing shooter 
+47,"['finally', 'got', 'onto', 'warzone', 'friends', 'urged', 'fucking', 'nightmare', 'circus', 'menus', 'micro', 'transactions', 'etc', 'awful', 'massacred', 'boy']",2088,finally got onto warzone because friends urged what a fucking nightmare circus of menus micro transactions etc it’s awful they massacred my boy 
+48,"['people', 'really', 'care', 'enemy', 'player', 'wearing', 'clown', 'skin', 'cod', 'literally', 'change', 'anything', 'cod', 'multiplayer', 'never', 'immerisve', 'like', 'battlefield', 'respawn', 'second', 'rush', 'back', 'face', 'enemy', 'team', 'seconds', 'shootout', 'kind', 'gameplay', 'seeing', 'nicki', 'minage', 'running', 'assault', 'rifle', 'break', 'immersion', 'exist', 'cod', 'actually', 'falling', 'grace', 'highly', 'doubt', 'would', 'player', 'burn', 'something', 'stupid', 'skins']",2089,people don't really care that the enemy player is wearing clown skin in cod it literally doesn't change anything cod multiplayer was never immerisve like battlefield you respawn in second and rush back to face the enemy team to have a seconds shootout with that kind of gameplay seeing nicki minage running with an assault rifle won't break any immersion because it doesn't exist if cod was actually falling from grace highly doubt that it would be because of player burn out or something not the stupid skins 
+49,"['cod', 'always', 'arcade', 'shooter']",2092,cod has always been an arcade shooter 
+50,"['serious', 'cod', 'semi', 'serious', 'mw', 'waw', 'never', 'serious', 'two', 'entries']",2093,serious cod was semi serious with mw and waw but was never serious after those two entries
+51,"['tampered', 'every', 'aspect', 'winning', 'formula', 'meddling', 'core', 'gameplay', 'mechanics', 'married', 'dogshit', 'skill', 'based', 'matchmaking', 'steadily', 'choking', 'life', 'franchise', 'pander', 'players', 'drive', 'engagement', 'people', 'apt', 'buy', 'cosmetics', 'cod', 'much', 'storefront', 'today', 'game', 'good', 'thing']",2097,they've tampered with just about every aspect of what was a winning formula their meddling with core gameplay mechanics married with their dogshit skill based matchmaking has been steadily choking the life out of the franchise and all of it is to pander to players and drive engagement so people are more apt to buy cosmetics cod is just as much of a storefront today as it is a game and that is not a good thing 
+52,"['yup', 'playlist', 'fortnite', 'literally', 'never', 'better', 'dude']",2120,yup its in the playlist fortnite has literally never been better my dude 
+53,"['tag', 'convert', 'avoiding', 'br', 'like', 'plague', 'festival', 'happened', 'huge', 'exposure', 'rhythm', 'game', 'streamers', 'follow', 'nothing', 'festival', 'two', 'weeks', 'got', 'really', 'rocket', 'racing', 'finally', 'went', 'zero', 'build', 'two', 'victory', 'royales', 'week', 'play', 'good', 'shooters', 'kek']",2133,tag me as a convert was avoiding it and all br like the plague and then festival happened with huge exposure from the rhythm game streamers i follow did nothing but festival for two weeks then got really into rocket racing and finally went into zero build only two victory royales in about a week of play i'm not good at shooters kek 
+54,"['yep', 'happy', 'waiting', 'black', 'ops', 'remastered', 'tyvm']",2146,yep i’m happy just waiting for black ops remastered tyvm
+55,"['someone', 'disliked', 'cod', 'cosmetics', 'years', 'weird', 'nicki', 'minaj', 'breaking', 'point', 'see', 'everywhere', 'instead', 'shit']",2157,as someone who's disliked cod cosmetics for years it's so weird to me that nicki minaj is the breaking point i see everywhere instead of all the other shit
+56,"['literal', 'comic', 'book', 'characters', 'cod', 'players', 'sleep', 'nicki', 'minaj', 'line', 'cod', 'fans']",2160,literal comic book characters and the cod players sleep but nicki minaj and that's the line for cod fans 
+57,"['yeah', 'one', 'reasons', 'played', 'cod', 'multiplayer', 'since', 'pushing']",2161,yeah one of the reasons why i had not played cod multiplayer since and that was pushing it 
+58,"['real', 'play', 'mediocre', 'fortnite', 'clone', 'masquerading', 'arcade', 'milsim', 'could', 'play', 'actual', 'fortnite', 'activision', 'seem', 'content', 'turning', 'cod', 'plus', 'finals', 'probably', 'stealing', 'players', 'since', 'actually', 'fun', 'innovative']",2164,for real why play mediocre fortnite clone masquerading as an arcade milsim when you could play actual fortnite because activision seem content with turning cod into that plus the finals is probably stealing players since it's actually fun and innovative 
+59,"['verdansk', 'even', 'good', 'map', 'camper', 'paradise', 'muted', 'colors', 'open', 'fields', 'cover', 'buildings', 'one', 'entrance', 'exit', 'etc', 'reason', 'people', 'look', 'back', 'fondly', 'nostalgia', 'playing', 'friends', 'covid', 'lockdowns']",2169,verdansk wasn't even a good map it was a camper's paradise muted colors open fields with no cover buildings with only one entrance exit etc the only reason people look back at it fondly is because of nostalgia from playing it with friends during covid lockdowns 
+60,"['community', 'even', 'know', 'wants', 'people', 'terrible', 'explaining', 'feel', 'certain', 'way', 'things', 'mindlessly', 'repeat', 'favorite', 'streamer', 'says', 'remember', 'people', 'fawning', 'urzikstan', 'verdansk', 'vibes', 'literally', 'similarity', 'rundown', 'post', 'soviet', 'setting', 'nothing', 'made', 'early', 'warzone', 'great', 'took', 'weeks', 'vibes', 'wear', 'people', 'went', 'back', 'complaining', 'verdansk', 'save', 'warzone', 'lot', 'lightning', 'bottle', 'never', 'captured']",2170,the community doesn't even know what it wants most people are terrible at explaining why they feel a certain way about things or they'll just mindlessly repeat what their favorite streamer says i remember people fawning over urzikstan because it had verdansk vibes literally the only similarity was the rundown post soviet setting which had nothing to do with what made early warzone great it only took a few weeks for the vibes to wear off and people went back to complaining verdansk can't save warzone a lot of it was just lightning in a bottle that can never be captured again 
+61,"['call', 'duty', 'never', 'realistic']",2173,call of duty has never been realistic 
+62,"['played', 'cod', 'since', 'first', 'ones', 'took', 'place', 'ww', 'always', 'arcade', 'shooters', 'thing', 'cs', 'played', 'since', 'mod', 'think', 'creatively', 'filling', 'gaps', 'memory', 'plenty', 'actually', 'realistic', 'game', 'back', 'well']",2174,i've played cod since the very first ones that took place in ww they were always arcade shooters same thing for cs that i've played since the mod i think you're just creatively filling in the gaps of your memory there were plenty of actually realistic game back then as well 
+63,"['wrong', 'fortnight', 'played', 'large', 'part', 'popularizing', 'particular', 'format', 'cod', 'trying', 'slice', 'pie', 'depressing', 'predictable', 'though', 'cod', 'blameless', 'either', 'greed', 'large', 'part', 'issue', 'well']",2179,they're not wrong fortnight played a large part in popularizing that particular format cod trying to get a slice of the pie is depressing but predictable though cod isn't blameless either their greed is a large part of the issue as well 
+64,"['seriously', 'used', 'play', 'modded', 'custom', 'skins', 'back', 'cod', 'days', 'remember', 'playing', 'teletubby', 'skin', 'scoping', 'barney', 'wild', 'people', 'ever', 'considered', 'cod', 'realistic', 'shooter', 'shit', 'like']",2181,seriously we used to play with modded custom skins back in the cod days i remember playing with a teletubby skin and no scoping barney it's wild that people here ever considered cod to be a realistic shooter or some shit like that
+65,"['drop', 'nothing', 'every', 'time', 'loadouts']",2202,you drop with nothing every time no loadouts
+66,"['drop', 'without', 'gun', 'find', 'guns', 'random', 'except', 'boss', 'drops', 'built', 'particular', 'load', 'said', 'customize', 'order', 'guns', 'slot', 'inventory', 'assign', 'hot', 'keys', 'want']",2203,you drop without a gun and have to find them guns are random except for boss drops and can't be built into a particular load out that being said you can customize what order the guns will slot into your inventory and assign hot keys for them if you want to 
+67,"['really', 'something', 'like', 'cod', 'fn']",2204,really something like cod but in fn 
+68,['lol'],2210,lol
+69,"['snoop', 'dogg', 'savage', 'also', 'cod', 'lol']",2223,snoop dogg and savage are also in cod lol
+70,['savage'],2224,and savage
+71,"['context', 'early', 'cod', 'one', 'realistic', 'shooters', 'available', 'guns', 'modeled', 'real', 'guns', 'places', 'modeled', 'real', 'places', 'scenarios', 'modeled', 'real', 'events', 'rather', 'unique', 'insert', 'space', 'marine', 'games', 'dominant', 'time']",2234,in the context of the early s cod was one of the more realistic shooters available it had guns modeled after real guns and places modeled after real places with scenarios modeled after real events this was rather unique to the insert space marine games that were dominant at the time 
+72,"['yes', 'every', 'mode', 'think', 'cod', 'exist', 'fortnite', 'even', 'first', 'person']",2247,yes every mode you can think in cod does exist in fortnite even being in first person
+73,"['people', 'literally', 'build', 'wall', 'take', 'inbetween', 'shoot', 'point', 'gave', 'fuck', 'defend', 'lol', 'legal', 'wallhack']",2248,there's people out there who can literally build a wall take it down and inbetween shoot at you at that point i just gave up how the fuck can i defend against that lol it's a legal wallhack
+74,"['plenty', 'talk', 'like', 'surrounding', 'fortnite', 'every', 'time', 'new', 'season', 'drops', 'waves', 'crybabies', 'ranting', 'older', 'season', 'peak', 'lol']",2251,there’s plenty of talk like that surrounding fortnite every time a new season drops there’s waves of crybabies ranting about how an older season was peak lol
+75,"['play', 'character', 'first', 'person', 'cod', 'thinking', 'fortnite']",2256,you play your character in first person in cod what were they thinking now if she were in fortnite…
+76,"['booty', 'stuck', 'doorways']",2258,does her booty get stuck in doorways 
+77,"['nah', 'nah', 'nicki', 'boiling', 'point', 'apparently']",2259,nah nah nicki was the boiling point apparently 
+78,"['nice', 'british', 'operators']",2261,it's nice to have more british operators
+79,"['sounds', 'like', 'fake', 'news']",2265,sounds like fake news to me 
+80,"['bright', 'pink', 'really', 'stands', 'rarely', 'ever', 'notice', 'snoop', 'dog', 'except', 'every', 'hear', 'teammate', 'say', 'poppin', 'fresh', 'mag', 'reload']",2290,she is bright pink so she really stands out i rarely ever notice snoop dog except every now and then when i hear my teammate say “i’m poppin’ a fresh mag ” when they reload 
+81,"['thought', 'sold', 'ton', 'izzy', 'skins', 'also', 'remember', 'seeing', 'lot', 'people', 'use', 'starlight', 'honestly', 'bums', 'cod', 'miss', 'generic', 'soldiers', 'using', 'normal', 'guns', 'mwiii', 'looks', 'like', 'copied', 'bunch', 'shit', 'codm', 'slapped']",2304,i thought they sold a ton of the izzy skins i also remember seeing a lot of people use starlight it honestly bums me out that this is just what cod is now i miss just being generic soldiers using normal guns mwiii looks like they just copied a bunch of shit from codm and slapped it in 
+82,"['yeah', 'scream', 'bs', 'dunno', 'fans', 'wanna', 'call', 'fact', 'nothing', 'homelander', 'spawn', 'jigsaw', 'among', 'jokes', 'nicki', 'know', 'cod', 'lot', 'bs', 'throw', 'flak', 'someone', 'tell']",2305,yeah this scream bs i dunno what fans wanna call it but the fact they did nothing with homelander spawn jigsaw among other jokes but nicki i know cod had a lot of bs but that's where they throw their flak at someone tell me what it is 
+83,"['freaking', 'love', 'username', 'see', 'getting', 'counter', 'already', 'got', 'snoop', 'savage', 'added', 'freaking', 'soccer', 'player', 'movie', 'horror', 'characters', 'hip', 'hop', 'even', 'used', 'lot', 'cod', 'promos', 'see']",2355,i freaking love your username and i can see what you're getting at my counter is don't they already got snoop and savage again they added a freaking soccer player and movie horror characters what's that hip hop had even been used in a lot of cod promos too so i don't see it 
+84,"['snoop', 'savage', 'cool', 'though', 'like', 'soccer', 'big', 'deal', 'europe', 'obviously', 'cool', 'point', 'arguing', 'nicki', 'minaj', 'cool', 'think', 'cod', 'game', 'think']",2358,snoop and savage are cool though and i don't like soccer but it's a big deal in europe so obviously it's cool over there at this point we're more arguing if nicki minaj is cool or not which i think for a cod game she isn't and you think she is 
+85,"['anyone', 'remember', 'blockland', 'lol', 'remember', 'hearing', 'roblox', 'thinking', 'blockland', 'clone']",2402,anyone remember blockland lol i remember hearing about roblox and just thinking it was a blockland clone 
+86,"['replace', 'word', 'devs', 'kids', 'world', 'capitalists', 'rapists', 'described', 'pedophile', 'see', 'point', 'cane', 'replace', 'words', 'whatever', 'want', 'change', 'morality', 'defined', 'specificities']",2459,replace the word devs with kids and the world capitalists with rapists and you just described a pedophile see how that isn't a point we cane replace those words with whatever you want but it doesn't change the morality defined in the specificities 
+87,['fuck'],2495,but what about and what about and what about fuck you 
+88,"['okay', 'baiting', 'good', 'day', 'kiddo']",2505,okay you’re just baiting now have a good day kiddo
+89,"['black', 'ops', 'beta', 'broken', 'gtx', 'looks', 'like', 'roblox', 'royale']",2562,black ops beta on a broken gtx looks like roblox royale 
+90,"['pre', 'order', 'order', 'play', 'beta']",2601,do i have to pre order in order to play beta 
+91,"['destroyed', 'vram', 'gb', 'vram', 'usable']",2617,destroyed vram about gb of vram is usable 
+92,"['nope', 'open', 'pc', 'beta', 'th']",2634,nope open pc beta until the th
+93,"['texture', 'bug', 'happen', 'healthy', 'card', 'gtx', 'definitely', 'broken', 'additional', 'issues', 'invisible', 'weapons', 'players', 'ui', 'elements', 'another', 'interesting', 'artifact', 'certain', 'polygons', 'vertices', 'missing', 'gtx', 'half', 'vram', 'working', 'thought', 'low', 'lod', 'trees', 'interesting', 'atrifact', 'discovering', 'real', 'cause', 'still', 'hilarious', 'see', 'either', 'way']",2636,while the texture bug can happen with a healthy card our gtx is definitely broken additional issues such as invisible weapons players and ui elements another interesting artifact is certain polygons had vertices missing this gtx has only half its vram working i thought the low lod trees were the most interesting atrifact before discovering the real cause still hilarious to see either way 
+94,"['ok', 'josef', 'stalin', 'go', 'back', 'grave', 'please']",2688,ok josef stalin go back to your grave now please 
+95,['lol'],3122,lol
+96,"['nephew', 'like', 'turtles']",3153,does your nephew like turtles
+97,"['must', 'missed', 'something', 'many', 'kids', 'like', 'undertale', 'aside', 'awesome', 'game']",3205,i must have missed something why do so many kids like undertale now aside from it being an awesome game that is 
+98,"['vine', 'voice', 'either', 'pretty', 'young', 'vine', 'thing', 'never', 'got', 'actually', 'much', 'popular', 'thought', 'like', 'turtles', 'meme', 'spread', 'way', 'vine']",3237,> vine voice you're either pretty young or this vine thing i never got into was actually much more popular than i thought the i like turtles meme spread way before vine 
+99,"['sounds', 'great', 'might', 'save', 'wallet', 'sanity', 'lol']",3306,sounds great but might save my wallet and sanity for now lol
+100,"['quake', 'arena']",3353,quake arena
+101,"['main', 'story', 'uninspiring', 'boring', 'setting', 'immersion', 'seen', 'scenes', 'cod', 'never', 'uses', 'faction', 'languages', 'germans', 'russians', 'seen', 'speaking', 'english', 'like', 'mp', 'factions', 'seem', 'simplistic', 'boring', 'list', 'goes']",3457,the main story was uninspiring boring setting immersion as seen in some scenes cod never uses faction languages so the germans and russians are seen speaking english didn't like the mp factions seem too simplistic and boring the list goes on 
+102,"['roblox_oof', 'mp', 'hbomberguy']",3462,roblox_oof mp by hbomberguy 
+103,"['mean', 'cant', 'quit']",3502,what do you mean you cant quit 
+104,"['wym', 'played', 'ton', 'roblox', 'buddies', 'would', 'play', 'game', 'called', 'phantom', 'forces', 'literally', 'battlefield', 'call', 'duty', 'clone', 'lmao']",3593,wym i played a ton of roblox in my s me and my buddies would play the game called phantom forces it was literally a battlefield call of duty clone lmao
+105,"['must', 'play', 'matlab', 'cad', 'wolfram', 'alpha']",3596,no you must play matlab cad and wolfram alpha
+106,['lol'],3638,lol
+107,"['pointless', 'play', 'doom']",3751,how pointless just play doom 
+108,"['neither', 'lol']",3752,neither lol 
+109,"['use', 'pc']",3794,i only use pc = 
+110,"['buncha', 'squares']",3797,what a buncha’ squares
+111,['blockland'],3889,and after blockland was 
+112,"['never', 'fapsturbate', 'front', 'webcam']",3895,and that is why i never fapsturbate in front of my webcam 
+113,"['yeah', 'lol']",3930,yeah lol
+114,"['work', 'pc']",3943,does it work in pc 
+115,"['fortnite', 'like', 'br']",4253,fortnite i like br 
+116,"['usb', 'think', 'yes', 'look', 'bluetooth', 'connection', 'pc', 'could', 'buy', 'something', 'like', 'bitdo', 'something', 'like']",4336,if it's usb i think yes if not you should look up bluetooth connection of your pc if not you could buy something like the bitdo or something like that
+117,['fuck'],4360,what the fuck why 
+118,['nope'],4382,nope
+119,['lol'],4454,lol
+120,"['gta', 'vi', 'beta', 'live', 'roblox', 'lol']",4475,gta vi in beta live on roblox lol 
+121,"['go', 'downhill']",4501,this can only go downhill
+122,"['literally', 'way', 'lol']",4570,literally no way lol…
+123,"['roblox', 'fortnite', 'hands', 'completely', 'unironic']",4585,roblox > fortnite hands down i'm being completely unironic here 
+124,"['someone', 'finally', 'said']",4592,someone finally said it 
+125,['fuck'],4613,fuck 😳😳😳
+126,['nope'],4619,nope 
+127,"['cool', 'bfg', 'snipes', 'roblox']",4653,cool bfg snipes roblox 
+128,['lol'],4660,why lol
+129,['nope'],4671,nope
+130,['fuck'],4676,fuck u
+131,"['neither', 'good', 'luck', 'lol']",4682,me neither good luck lol
+132,"['roblox', 'game', 'insanely', 'realistic']",4690,this roblox game is insanely realistic 
+133,"['mean', 'unwire', 'cables']",4805,you mean to unwire all of the cables 
+134,"['cod', 'fans', 'way', 'buy', 'mw', 'mean', 'mw']",4813,cod fans on their way to buy mw … i mean mw 
+135,"['mw', 'features', 'everything', 'mw', 'also', 'everything', 'mw']",4814,mw which features everything from mw but also everything from mw 
+136,"['like', 'campaigns']",4828,i like the campaigns 
+137,"['bought', 'cod', 'since', 'ghosts', 'open', 'world', 'zombies', 'sounds', 'interesting', 'son', 'though']",4837,haven't bought a cod since ghosts open world zombies sounds interesting for me and my son to do though 
+138,"['youtubers', 'mw', 'best', 'call', 'duty', 'ever']",4839,youtubers this is why mw is the best call of duty ever 
+139,"['got', 'mw', 'feel', 'like', 'gonna', 'buy', 'mw', 'feel', 'like']",4842,i got mw to feel like it was again and now i’m gonna buy mw to feel like it was again 🤡
+140,"['cod', 'fans', 'actually', 'want', 'cannot', 'play', 'game', 'anymore', 'used', 'play', 'back', 'day', 'cannot', 'deal', 'shitty', 'fast', 'movement', 'slide', 'cancel', 'reload', 'cancel', 'jumping', 'like', 'monkeys', 'every', 'second', 'cancel', 'fuck', 'fortnire', 'gas', 'grounded', 'movement', 'system', 'makes', 'sense', 'cod', 'shooting', 'started', 'also', 'feel', 'really', 'weird', 'cod', 'weapons', 'vibrating', 'way', 'much', 'hand', 'cover', 'half', 'screen', 'ok']",4851,this is what cod fans actually want i just cannot play that game anymore i used to play it back in the day but i just cannot deal with the shitty fast movement slide cancel reload cancel jumping like monkeys every second cancel fuck it fortnire gas a more grounded movement system that makes more sense than cod shooting started to also feel really weird in cod weapons are vibrating way too much in hand and cover half the screen not for me and that's ok 
+141,['campaign'],4852,but the campaign 
+142,"['modern', 'warfare', 'last', 'great', 'cod']",4854,modern warfare was the last great cod 
+143,"['playing', 'mwiii', 'beta', 'nonstop', 'love', 'guns', 'feel', 'like', 'cw', 'super', 'fast', 'pew', 'pew', 'mf']",4858,i've been playing the mwiii beta nonstop and i love it the guns feel more like cw and it's super fast pew pew mf's 
+144,"['worth', 'nostalgia', 'playing', 'mw', 'maps']",4866,it’s worth it for the nostalgia of playing on all the mw maps 
+145,"['already', 'preordered', 'beta', 'sick', 'ps', 'pumped', 'see', 'rendition', 'zombies']",4881,already preordered beta is sick on the ps pumped to see this rendition of zombies
+146,"['rebranded', 'fortnite', 'point', 'many', 'crossovers', 'fortnite', 'understand', 'cod', 'passed', 'point', 'much', 'back', 'maybe', 'check', 'campaigns', 'mw', 'mw', 'heavily', 'discounted', 'xbox', 'multiplayer', 'kind', 'done', 'mention', 'forced', 'connection', 'warzone', 'pc']",4890,it should just be rebranded as fortnite at this point with so many crossovers fortnite i understand but cod has passed the point of too much a while back maybe i’ll check out the campaigns for mw and mw when they’re heavily discounted on xbox but the multiplayer kind of done with it not to mention the forced connection to warzone for pc 
+147,"['guy', 'even', 'original', 'mw', 'updated', 'mw', 'tradition']",4894,my guy even the original mw was an updated mw it's tradition
+148,"['could', 'simply', 'said', 'cod', 'fans', 'otw', 'buy', 'cod', 'hot', 'trash', 'point']",4903,you could of simply just said cod fans otw to buy cod its all hot trash at this point
+149,"['jesus', 'miss', 'tactical', 'shooters', 'looked', 'realistic', 'instead', 'kiddie', 'circus', 'whatever', 'fuck', 'want', 'real', 'good', 'damn', 'sequel', 'rainbow', 'six', 'vegas', 'ghost', 'recon', 'advance', 'warrior', 'none', 'clown', 'shit']",4906,jesus i miss my tactical shooters of the s that looked realistic instead of these kiddie circus whatever the fuck they are i want a real good damn sequel to rainbow six vegas and ghost recon advance warrior none of this clown shit 
+150,"['fact', 'campaign', 'makes', 'hate', 'post']",4908,the fact there is a campaign and such makes me hate this post 
+151,"['search', 'criteria', 'call', 'duty', 'modern', 'warfare', 'google', 'search', 'engine', 'mean', 'generic', 'copied', 'pasted', 'casual', 'first', 'person', 'shooter']",4909,search criteria *call of duty modern warfare * google search engine *did you mean* ***generic copied pasted casual first person shooter # **** *
+152,"['got', 'done', 'playing', 'beta', 'felt', 'like', 'ass', 'tbh', 'defiantly', 'feel', 'like', 'old', 'mw', 'one', 'skip', 'kind', 'done', 'cod', 'anyway', 'glad', 'decision', 'justified']",4912,just got done playing the beta felt like ass tbh defiantly didn’t feel like old mw this one is a skip for me but i’ve kind of been done with cod for a while now anyway but i’m glad my decision is more justified
+153,"['meme', 'culture', 'ruined', 'shooters']",4923,meme culture ruined shooters
+154,"['bringing', 'maps', 'back', 'atmosphere', 'without', 'british', 'voice', 'actor', 'emblems', 'titles', 'popping', 'kills', 'guns', 'sound', 'lame', 'usual', 'like', 'automatic', 'staple', 'guns', 'og', 'intervention', 'either', 'wack']",4926,they’re only bringing the maps back the atmosphere will not be the same without the british voice actor no emblems and titles popping up after kills guns sound lame as usual like automatic staple guns no og intervention either wack
+155,['mw'],4927,mw 
+156,"['think', 'start', 'cod', 'demise']",4932,i think this is the start or the cod demise
+157,"['salty', 'someone', 'else', 'fun', 'besides']",4936,y'all so salty when someone else has fun besides you 
+158,"['casual', 'cod', 'player', 'buy', 'ones', 'look', 'decent', 'maybe', 'buy', 'operator', 'bundle', 'nothing', 'insane', 'say', 'cod', 'marketed', 'sold', 'laughable', 'took', 'one', 'look', 'cod', 'next', 'event', 'imediatly', 'said', 'skip', 'play', 'gamepass', 'years', 'fifa', 'madden', 'fresh', 'coat', 'paint', 'pushed', 'door', 'even', 'corpo', 'greed', 'terrible', 'consumer', 'spending', 'habits', 'engine', 'understandable', 'ui', 'overall', 'visual', 'sound', 'design', 'weapon', 'mechanics', 'interactions', 'identical', 'color', 'pallet', 'still', 'brown', 'uninspiring', 'touting', 'bunch', 'old', 'recycled', 'maps', 'like', 'engaging', 'consumers', 'average', 'bong', 'ripping', 'word', 'dropping', 'fire', 'alarm', 'beeping', 'background', 'cod', 'player', 'see']",4937,i'm a casual cod player i buy the ones that look decent and maybe buy an operator bundle or too nothing insane to say that cod should be marketed and sold as a is laughable i took one look at the cod next event and imediatly said skip or play off gamepass most years fifa and madden get a fresh coat of paint before being pushed out the door and this isn't even that this is what corpo greed and terrible consumer spending habits get you the same engine which is understandable but the same ui same overall visual and sound design weapon mechanics and interactions are identical color pallet is still brown and uninspiring and they are touting a bunch of old and recycled maps like what about this is engaging for consumers how does the average bong ripping n word dropping fire alarm beeping in the background cod player see in this 
+159,"['know', 'care', 'recognize', 'whatever', 'hell', 'cod', 'reminds', 'reading', 'day', 'ashoka', 'tv', 'show', 'came', 'went', 'literal', 'magic', 'force', 'magic', 'witches', 'casting', 'magic', 'zombies', 'spells', 'time', 'travel', 'crap', 'feel', 'thing', 'hell', 'star', 'wars', 'even', 'whatever', 'hell', 'whatever']",4938,i don't know or care or recognize whatever the hell cod is now it reminds me of reading the other day that that ashoka tv show came and went and that it had literal magic not the force magic witches casting magic zombies spells time travel or some crap and i feel the same thing what the hell is star wars now even it isn't whatever the hell that is whatever 
+160,"['twenty', 'cod', 'bucks', 'mask', 'thirty', 'cod', 'bucks', 'pants', 'cod', 'bucks', 'weapon', 'one', 'time', 'give', 'five', 'runs', 'map', 'low', 'low', 'price', 'cod', 'bucks', 'xd']",4941,that'll be twenty cod bucks for the mask thirty cod bucks for the pants cod bucks for the weapon and for one time only we'll give you five runs through the map for the low low price of cod bucks xd
+161,"['cod', 'dead', 'since', 'infinite', 'warfare']",4947,cod has been dead since infinite warfare 
+162,"['cod', 'sucks', 'period', 'bitch']",4948,cod sucks now period bitch
+163,"['imagine', 'spending', 'euros', 'buy', 'cod', 'year', 'like', 'campaign', 'go', 'real']",4949,imagine spending euros to buy cod each year because i like the campaign go f*** yourselves for real 
+164,"['hey', 'come', 'russians', 'bad', 'guys', 'shooter', 'russian', 'ever', 'baddies']",4950,hey come on the russians are the bad guys i’m which shooter the russian were ever the baddies 
+165,"['nobody', 'yet', 'give', 'satisfactory', 'answer', 'calling', 'mw', 'mw']",4959,nobody has yet to give me a satisfactory answer to why they are calling this mw and not mw 
+166,"['itt', 'people', 'havent', 'played', 'cod', 'last', 'years', 'dont', 'understand', 'still', 'one', 'popular', 'shooters', 'complaining', 'realistic', 'one', 'plays', 'wants', 'thatd', 'limit', 'cosmetics', 'boring', 'rehashes', 'shit', 'see', 'every', 'modern', 'shooter', 'thus', 'boring', 'play', 'regularly', 'cod', 'arcade', 'shooter', 'realism', 'tried', 'realistic', 'tactical', 'mw', 'everyone', 'hated', 'much', 'theyve', 'trying', 'revert', 'since', 'launch', 'mw', 'game', 'old', 'arcade', 'mechanics', 'added', 'back']",4962,itt people who havent played cod for the last years and dont understand why its still one of the most popular shooters as for those complaining about it not being realistic no one who plays wants that thatd limit cosmetics to boring rehashes of the same shit we see in every modern shooter and thus boring when you play regularly cod is an arcade shooter not realism they tried to get more realistic and tactical in mw and everyone hated it so much theyve been trying to revert it since launch and mw is the same game but with old arcade mechanics added back
+167,"['mw', 'way']",4963,it’s mw all the way down
+168,"['would', 'cod', 'fans', 'play', 'mechwarrior']",4964,why would cod fans play mechwarrior 
+169,"['remember', 'said', 'cod', 'game', 'every', 'year', 'literally', 'true', 'crazy']",4966,remember when we said cod was the same game every year now it's literally true and that's crazy
+170,"['miss', 'world', 'war']",4967,i miss world at war
+171,"['zombies', 'player', 'annoyed', 'hear', 'zombies', 'game']",4974,as a zombies player i'm more annoyed to hear about what they're doing with zombies in this game
+172,"['sucker', 'campaigns', 'idk', 'say']",4976,i'm a sucker for the campaigns idk what to say
+173,"['remember', 'bozo']",4977,remember no bozo 
+174,"['activision', 'cutting', 'edge', 'games', 'like', 'ow', 'mw', 'mw', 'fast', 'mw', 'course', 'mw', 'knuckles']",4982,activision has cutting edge games like ow mw mw v fast mw and of course mw & knuckles
+175,"['tbf', 'skipped', 'mw', 'seems', 'like', 'mw', 'addressed', 'issues', 'mw', 'idk']",4985,tbf i skipped mw and it seems like mw addressed the issues i had with mw so idk
+176,['burn'],4988,burn 🔥
+177,"['one', 'things', 'miss', 'cod', 'stupid', 'skins', 'guilie', 'suit', 'fun', 'upgrade']",4989,one of the things that i do not miss about cod is the stupid skins the guilie suit was a fun upgrade
+178,"['call', 'fortnite', 'disguise', 'way']",4992,its call of fortnite in disguise all the way
+179,"['mw', 'filled', 'maps', 'mw']",5000,mw which is filled with maps from mw 
+180,"['enjoy', 'campaigns']",5001,i enjoy the campaigns 
+181,"['mean', 'mw']",5005,you mean mw 
+182,"['guys', 'buying', 'new', 'cod', 'shit', 'still', 'playing', 'bo', 'zombies']",5010,you guys buying the new cod shit i’m still playing bo zombies 
+183,"['battlebit', 'remastered']",5011,battlebit remastered is where it's at
+184,['zombies'],5014,but but it'll have zombies
+185,"['buying', 'zombies']",5020,i’m buying it for zombies 
+186,"['think', 'burned', 'good', 'remained', 'player', 'base', 'least', 'whole', 'clan', 'old', 'geezers', 'guys', 'refusing', 'buy', 'mw', 'beta', 'mw', 'never', 'left', 'beta']",5021,i think they've burned up any good will that remained in the player base at least my whole clan of old geezers about guys is refusing to buy mw beta mw never left beta 
+187,"['zombies', 'campaign', 'good', 'worth', 'multiplayer', 'longer', 'main', 'draw']",5022,if zombies and the campaign are good it's worth it to me the multiplayer is no longer the main draw for me 
+188,['sick'],5027,sick
+189,"['campaign', 'sale', 'drunk', 'thinking']",5028,i’ll get it for the campaign when it’s on sale or when i am drunk and not thinking
+190,"['gets', 'zombie', 'fan', 'seemed', 'like', 'learnt', 'lesson', 'another', 'half', 'baked', 'zombie', 'mode', 'followed', 'another', 'half', 'baked', 'zombie', 'mode', 'supposed', 'next', 'black', 'ops', 'game', 'buying', 'cod', 'til', 'treyarch', 'given', 'freedom', 'deserve']",5031,what gets me zombie fan is it seemed like they had learnt their lesson but here we are with another half baked zombie mode that will be followed by another half baked zombie mode in the supposed next black ops game not buying any more cod til treyarch is given the freedom they deserve
+191,['mechwarrior'],5034,mechwarrior i don't get it 
+192,"['pay', 'play', 'campaign', 'please', 'lemme']",5036,i’ll pay just to play the campaign please lemme
+193,"['buy', 'splatoon', 'better', 'shooter']",5037,just buy splatoon for the better shooter
+194,"['defense', 'buy', 'mw', 'last', 'year', 'im', 'nostalgia']",5045,in my defense i didn’t buy mw last year and im just in this for nostalgia 
+195,['mw'],5048,mw ²
+196,"['dunno', 'still', 'many', 'fps', 'shooters', 'campaign', 'days', 'happy', 'buy', 'game', 'campaign', 'ranked', 'fuck', 'zombies', 'maybe', 'multiplayer', 'enjoy', 'mwiii', 'seriously', 'add', 'mwii', 'activision', 'shat', 'pants', 'decided', 'calling', 'mwiii', 'could', 'fix', 'mistakes', 'mwii', 'without', 'pissing', 'folk', 'liked', 'way', 'mwii', 'played', 'cynical', 'move', 'activision', 'happy', 'want', 'play', 'campaign', 'enjoy', 'dmz', 'like', 'zombies', 'mode', 'multiplayer', 'good', 'enough', 'plus']",5050,i dunno there still aren't many fps shooters with a campaign these days i'm happy to buy the game for the campaign and ranked then fuck about in zombies and maybe some multiplayer if i enjoy it mwiii seriously should have been an add on for mwii and activision shat their pants and decided by calling it mwiii they could fix all the mistakes of mwii without pissing off the folk that liked the way mwii played it's a cynical move by activision but i'm happy to just want to play the campaign and enjoy some dmz like zombies mode if the multiplayer is good enough that'll be a plus 
+197,"['could', 'stopped', 'cod', 'fans']",5055,could have stopped at “cod fans”
+198,"['probably', 'going', 'pick', 'mainly', 'want', 'game', 'campaign', 'zombies', 'mode']",5063,i'm probably going to pick it up but i mainly want the game for the campaign and zombies mode 
+199,"['authentic', 'ww', 'loadout', 'right', 'gave', 'waw']",5070,authentic ww loadout right there gave up at waw 
+200,"['lmao', 'cool', 'hat', 'missed', 'mw', 'maybe', 'mw', 'good', 'year']",5072,lmao that's a cool hat i missed mw maybe mw is good this year 
+201,['mw'],5073,mw 
+202,"['open', 'works', 'zombies', 'seems', 'interesting', 'though']",5079,the open works zombies seems interesting though 
+203,"['mw', 'mwii', 'mw']",5081,mw +mwii=mw 
+204,"['ehh', 'bought', 'cod', 'since', 'mw', 'really', 'bother', 'much', 'sbmm', 'ruin', 'anything', 'regardless']",5092,ehh haven’t bought a cod since mw so it doesn’t really bother me that much but the sbmm will ruin anything regardless 
+205,"['fashion', 'game', 'endgame']",5103,fashion game is the endgame
+206,"['totally', 'true', 'want', 'damn', 'multiplayer', 'map', 'familiar', 'concept', 'symmetry', 'theese', 'old', 'maps', 'dramatically', 'better', 'newer', 'offerings', 'lot', 'reasons', 'basic', 'symmetry', 'hard', 'really', 'overstate', 'great', 'feels', 'multiplayer', 'fps', 'fortunately', 'gamefly', 'last', 'gamepass', 'picks', 'since', 'help']",5104,while totally true i just want a damn multiplayer map familiar with the concept of symmetry theese old maps are dramatically better than the newer offerings for a lot of reasons but basic symmetry is hard to really overstate how great it feels in a multiplayer fps fortunately gamefly will last until gamepass picks it up since they just can't help themselves 
+207,"['yep', 'actually', 'looking', 'forward', 'mw', 'campaign']",5106,yep i’m actually looking forward to the mw campaign 
+208,"['mw', 'dlc', 'full', 'retail', 'edition']",5107,mw dlc full retail edition
+209,"['mechwarrior', 'real', 'step', 'mechwarrior', 'tbh']",5109,mechwarrior was a real step up from mechwarrior tbh
+210,"['rust', 'back']",5113,but rust is back 
+211,"['beta', 'key', 'bother', 'installing', 'even', 'play', 'anymore']",5118,i have a beta key and didn’t bother installing it i don’t even play anymore
+212,"['like', 'campaigns', 'okay', 'leave', 'alone']",5120,i like the campaigns okay leave me alone
+213,"['look', 'zombie', 'ghost', 'enticing', 'mean', 'someone', 'cautiously', 'hopeful', 'mwz']",5130, look zombie ghost is enticing me i mean it as someone who's cautiously hopeful for mwz 
+214,"['oh', 'guys', 'still', 'buying', 'games', 'sticking', 'warzone']",5131,oh you guys still buying their games i've just been sticking to warzone😅
+215,"['cod', 'kids']",5132,cod is for kids
+216,"['new', 'cod']",5135,new to cod 
+217,"['map', 'pack', 'drop']",5139, map pack about to drop
+218,"['generally', 'would', 'disagree', 'normally', 'release', 'different', 'themed', 'cod', 'every', 'year', 'coming', 'mw', 'one', 'year', 'mw', 'feels', 'scammy']",5142,generally i would disagree because they normally release a different themed cod every year but coming out with mw one year after mw feels scammy to me 
+219,"['rebrand', 'fifa', 'point', 'luckily', 'cod', 'ea', 'longer', 'trademark', 'hostage']",5144,they should just rebrand to fifa at this point luckily for cod ea no longer has the trademark hostage 
+220,['lol'],5148,lol
+221,"['tbh', 'playing', 'cod', 'since', 'ghosts', 'besides', 'cold', 'war', 'zombies', 'lot', 'fun', 'classic', 'maps', 'weapons', 'good', 'well', 'ttk', 'yes', 'going', 'buy']",5152,tbh after not playing cod since ghosts besides cold war for zombies i'm having a lot of fun with the classic maps and the weapons are good as well as the ttk so yes i am going to buy it 
+222,"['haha', 'running', 'faster', 'usain', 'bolt']",5158,haha they'll be running faster than usain bolt 
+223,"['taking', 'detour', 'time', 'experience', 'mw', 'magic']",5163,taking a detour through time to experience the mw magic 
+224,"['basically', 'mw']",5164,basically mw v 
+225,"['new', 'campaign']",5167,does it have a new campaign 
+226,"['fixed', 'dogshit', 'movement', 'though', 'everyone', 'psyched', 'think', 'essentially', 'copy', 'pasted', 'sure', 'lol']",5168,they fixed the dogshit movement though which is what everyone's psyched about i think but essentially copy and pasted for sure lol
+227,"['include', 'campaign']",5169,does it include the campaign 
+228,"['shit', 'literally', 'runs', 'mw', 'application', 'aswell', 'lmfao']",5170,shit literally runs on the mw application aswell lmfao
+229,"['away', 'cod', 'super', 'confused', 'og', 'mw', 'mw', 'old', 'mw', 'maps', 'og', 'mw', 'lost', 'perhaps', 'planned', 'well', 'new', 'mw', 'people', 'wanted', 'og', 'mw', 'back', 'title', 'different', 'name', 'manipulate', 'people', 'buying', 'mw', 'actually', 'something', 'og', 'mw', 'people', 'buy']",5176,i been away from cod and now i am super confused their was og mw then a mw that is not the same as the old and now a mw with maps from og mw i am lost perhaps they planned this well new mw because people wanted og mw back same title different name to manipulate people to buying and now mw that actually is something of og mw because now people will buy again
+230,"['mw', 'ultimate', 'mashup', 'mw', 'mw', 'settle', 'one', 'mw', 'two', 'mw', 'one', 'game', 'mind', 'blowing']",5178,mw the ultimate mashup of mw and mw because why settle for just one mw when you can have two mw s in one game mind blowing 
+231,"['slide', 'cancel']",5187,you can slide cancel now 
+232,"['dae', 'hate', 'call', 'duty', 'stop', 'liking', 'things', 'dont', 'like']",5188,dae hate call of duty stop liking things i dont like 
+233,"['originally', 'saying', 'fuck', 'buying', 'heard', 'zombies', 'bastards', 'know', 'weakness']",5191,originally i was saying fuck that i'm not buying it but then i heard it has zombies 😭 those bastards know my weakness 
+234,"['cod', 'mw', 'last', 'one', 'dedicated', 'servers', 'modding', 'community', 'still', 'quite', 'playerbase', 'every', 'cod', 'dogshit', 'cashgrab']",5196,cod mw was the last one with dedicated servers and a modding community it still has quite a playerbase every cod after that was a dogshit cashgrab 
+235,"['never', 'realistic', 'shooter', 'always', 'arcade', 'shooter']",5211,why it's never been a realistic shooter it has always been an arcade shooter 
+236,"['honestly', 'cod', 'stopped', 'taking', 'seriously', 'around', 'black', 'ops', 'imo']",5217,honestly cod stopped taking itself seriously around black ops imo 
+237,"['ah', 'yes', 'akimbo', 'marathon', 'pro', 'super', 'serious']",5218,ah yes akimbo s with marathon pro were super serious
+238,"['cod', 'always', 'arcade', 'shooter']",5219,cod has always been a arcade shooter
+239,"['optional', 'skins', 'quit', 'playing', 'game', 'weird', 'lol']",5220,optional skins is why you quit playing a game weird lol
+240,"['advanced', 'warefare', 'one', 'jump', 'packs', 'point', 'cod', 'started', 'going', 'downhill', 'fast', 'goofy', 'ass', 'gameplay', 'goofy', 'ass', 'cosmetics', 'random', 'drop', 'weapon', 'schematics', 'op', 'like', 'teh', 'asm', 'speakeasy', 'variant', 'absolutely', 'shredded', 'people', 'lucky', 'enough', 'drop']",5221,advanced warefare the one with jump packs was the point at which cod started going downhill fast the goofy ass gameplay with the goofy ass cosmetics and the random drop for those weapon schematics that were op like teh asm speakeasy variant that absolutely shredded people if you were lucky enough to get it to drop 
+241,"['say', 'since', 'black', 'ops']",5229,i'd say it has been since black ops
+242,"['really', 'play', 'campaigns']",5232,i really just play for the campaigns
+243,"['say', 'go', 'buy', 'titanfall', 'gamestop', 'play', 'campaign', 'play', 'hour', 'mediocre', 'campaign', 'wild']",5235,then i’d say go buy titanfall for at gamestop and play that campaign just to play a hour mediocre campaign is wild to me
+244,"['map', 'pack', 'dlc', 'good', 'grief']",5242, map pack dlc good grief 
+245,"['alternative', 'would', 'play', 'first', 'mw', 'waw', 'mw', 'black', 'ops', 'four', 'possibly', 'greatest', 'arcade', 'shooters', 'ever', 'hit', 'shelves', 'newer', 'cods', 'drain', 'player', 'bases', 'faster', 'necessary']",5247,alternative would be to play the first mw from waw from mw from and black ops from four possibly greatest arcade shooters ever hit the shelves all the newer cods did was drain their player bases faster than necessary 
+246,"['rather', 'paid', 'subscription', 'milked', 'product', 'every', 'year', 'considering', 'subscriptions', 'monthly', 'still', 'cheaper', 'buying', 'cod', 'every', 'year', 'cod', 'month', 'could', 'jump', 'month', 'enjoy', 'launch', 'offering', 'cancel', 'subscription', 'hop', 'back', 'next', 'major', 'content', 'drop', 'hits', 'instead', 'gotta', 'pay', 'front', 'cross', 'fingers', 'turn', 'game', 'shit', 'actually', 'deliver', 'content', 'claim', 'coming', 'pipeline', 'problem', 'lot', 'people', 'find', 'cod', 'fun', 'anymore', 'shit', 'like', 'sbmm', 'turning', 'game', 'sweat', 'fest', 'hop', 'games', 'pub', 'stomp', 'anymore', 'like', 'old', 'cods', 'actively', 'punished', 'better']",5248,i’d rather a paid subscription than being milked for the same product every year considering subscriptions on the monthly are still cheaper than buying a cod every year if cod was month i could jump in for a month and enjoy the launch offering cancel my subscription and hop back in for when the next major content drop hits instead i gotta pay **up front** and cross my fingers they don’t turn the game to shit and actually deliver on the content they claim is coming in the pipeline and the other problem is a lot of people don’t find cod fun anymore because of shit like sbmm turning the game into a sweat fest you can’t just hop on for games and pub stomp for or of them anymore like old cods you’re actively punished for doing better 
+247,"['sounds', 'pretty', 'cool', 'wish', 'standalone', 'experience', 'instead', 'bundled']",5250,it sounds pretty cool i just wish it was a standalone experience instead of being bundled in
+248,"['oooo', 'also', 'added', 'slide', 'cancelling', 'og', 'mini', 'map', 'back', 'tooooo', 'totally', 'worth']",5257,oooo but they also added slide cancelling and the og mini map back in tooooo totally worth the s
+249,"['agree', 'completely', 'neglected', 'traditional', 'multiplayer', 'favor', 'warzone', 'trying', 'cash', 'extraction', 'shooters', 'dmz', 'dmz', 'could', 'good', 'gave', 'enough', 'shit', 'like', 'warzone']",5276,i agree they’ve completely neglected traditional multiplayer in favor of warzone and trying to cash in on extraction shooters with dmz dmz could be good if they gave enough of a shit about it like they did warzone
+250,"['right', 'judge', 'lol']",5278,i’m in my right to judge you lol
+251,"['seriously', 'play', 'og', 'mw', 'plutonium', 'pc', 'say', 'xbox', 'playstation', 'could', 'hacked', 'cuz', 'activision', 'give', 'shit', 'player', 'security']",5285,seriously don’t just play the og mw on plutonium on pc i can’t say on xbox or playstation because you could get hacked cuz activision doesn’t give a shit about player security
+252,"['lol', 'starfield']",5289,lol starfield 
+253,"['true', 'part', 'man', 'taste', 'play', 'old', 'zombies', 'plutonium', 'multiplayer', 'lol']",5294,true for the most part i’m a man of taste i play old zombies and plutonium multiplayer lol
+254,"['exactly', 'would', 'issue', 'would', 'expansion', 'pack', 'mw', 'rebranded', 'game', 'call', 'duty', 'modern', 'warfare', 'instead', 'calling', 'sequel', 'giving', 'almost', 'nothing', 'players']",5304,exactly i would have no issue if this would’ve been an expansion pack for mw and they rebranded the game to “call of duty modern warfare” instead they’re calling it a sequel and giving almost nothing to the players for more
+255,"['yea', 'unfortunately', 'right', 'bought', 'played', 'good', 'amount', 'mw', 'saw', 'game', 'turning', 'dipped', 'came', 'back', 'mw', 'thinking', 'maybe', 'improved', 'things', 'refunded', 'game', 'matches', 'abhorrent', 'sbmm', 'kicked']",5305,yea unfortunately you’re right i bought and played a good amount of mw then saw what the game was turning into and dipped came back for mw thinking they maybe improved on some things and refunded the game after matches when the abhorrent sbmm kicked in
+256,"['every', 'cod', 'skip', 'unless', 'treyarch', 'made']",5312,every cod is skip unless it's treyarch made 
+257,"['true', 'think', 'infinite', 'warfare', 'somewhat', 'underrated', 'compared']",5313,true and i think infinite warfare was somewhat underrated compared to what we have now
+258,"['miss', 'blops', 'og', 'mw', 'games']",5321,i miss blops and the og mw games
+259,"['honestly', 'super', 'pumped', 'zombies', 'looks', 'really', 'fun', 'buds', 'loved', 'dmz', 'dmz', 'vibe', 'mixed', 'zombies', 'missions', 'etc', 'wait']",5325,honestly i'm super pumped for zombies it looks really fun with my buds i loved dmz and it has that dmz vibe mixed in with zombies with missions etc can't wait
+260,"['campaign', 'learned', 'form', 'bf', 'mistake', 'one', 'part', 'ctrl', 'ctrl', 'process']",5327,there'll be a campaign have they learned form bf s mistake not to have one or was that just part of the ctrl+c ctrl+f process 
+261,"['sure', 'scam', 'bought', 'mw', 'expecting', 'remastered', 'mw', 'maps', 'none', 'mw', 'remastered', 'mw', 'maps', 'nahhhhh']",5330,they sure did scam me i bought mw expecting remastered mw maps but there were none now mw has remastered mw maps nahhhhh
+262,['mw'],5334,mw 
+263,['mw'],5335,mw 
+264,"['wait', 'fifa', 'guns']",5337,wait it’s all fifa with guns 👨‍🚀🔫🧑‍🚀
+265,"['yeah', 'mw', 'cod', 'mw', 'remastered', 'little', 'bit', 'jarring', 'getting', 'playing', 'cod', 'mw', 'remst', 'cod', 'mw', 'remst', 'suddenly', 'ui', 'quality', 'drops', 'mission', 'intros', 'change', 'style']",5339,yeah but before we get mw can we get cod mw remastered it's a little bit jarring getting to it after playing cod mw remst and cod mw remst and suddenly the ui quality drops and the mission intros change style 
+266,"['sounds', 'like', 'played', 'beta', 'yet', 'mw', 'multiplayer', 'looks', 'fuck', 'ton', 'like', 'reskin', 'old', 'bo', 'bo', 'games', 'mw', 'zombies', 'single', 'player', 'campaign', 'might', 'new', 'multiplayer', 'beta', 'reskin', 'people', 'look', 'tiny', 'like', 'battlefield', 'exactly', 'stopped', 'playing', 'cod', 'back', 'day', 'ducking', 'hated', 'changes', 'back', 'fucking', 'hate', 'glad', 'warzone', 'going', 'change', 'engine', 'sounds', 'like', 'going', 'leave', 'wz']",5341,sounds like you haven’t played the beta yet mw multiplayer looks a fuck ton more like a reskin of the old bo and bo games then it does mw zombies and the single player campaign might be new but the multiplayer beta is just a reskin all the people look tiny like it’s battlefield which is exactly why i stopped playing cod back in the day i ducking hated those changes back then and i fucking hate them now i’m just glad that warzone isn’t going to change over to that engine it sounds like they are just going to leave wz as is 
+267,"['bruh', 'put', 'nicki', 'minaj', 'operator', 'whatever', 'identity', 'integrity', 'call', 'duty', 'left', 'lost', 'point']",5363,bruh they put nicki minaj in as an operator whatever identity and integrity call of duty had left was lost at that point 
+268,"['realise', 'looking', 'fornite', 'clone']",5364,when you realise you are looking at a fornite clone 
+269,"['campaign', 'last', 'one', 'awesome']",5370,the campaign in the last one was awesome
+270,"['past', 'games', 'worth', 'picking', 'used', 'campaign', 'played', 'since', 'mw']",5371,are there any past games worth picking up used for the campaign i haven't played once since mw 
+271,"['also', 'zombies', 'way']",5372,and also zombies in a way 
+272,"['charging', 'map', 'pack', 'splitting', 'playerbase', 'shit', 'horrible', 'iirc', 'cases', 'would', 'kicked', 'lobby', 'map', 'even', 'map', 'pack', 'could', 'put', 'map', 'rotation', 'meant', 'players', 'map', 'pack']",5376,>charging for a map pack and splitting up the playerbase that shit was horrible iirc in some cases you would just get kicked from the lobby for not having the map even if you did have the map pack you could get put in a map rotation meant for players that didn't have the map pack 
+273,"['huh', 'weird', 'played', 'mw', 'black', 'ops', 'distinctly', 'remember', 'game', 'one', 'map', 'apiecerust', 'nuketown', 'saying', 'others']",5377,huh that’s weird i’ve played mw and black ops but distinctly remember each game only having one map apiece—rust and nuketown you’re saying there's others 
+274,"['us', 'playing', 'since', 'originally', 'launched', 'pc', 'greatest', 'map', 'ever', 'created', 'came', 'carentan']",5378,some of us have been playing since when it was originally launched on pc that’s where the greatest map ever created came from carentan 
+275,"['cod', 'spin', 'release', 'well', 'expansion', 'cod']",5379,* cod had a spin off release as well as an expansion to cod in 
+276,"['agree', 'another', 'shooter', 'forgot', 'mention', 'really', 'enjoyed', 'siege', 'none', 'buddies', 'want', 'play', 'since', 'higher', 'learning', 'curve', 'solo', 'queueing', 'gets', 'boring', 'always', 'back', 'cod', 'dont', 'hate', 'game', 'agree', 'paying', 'every', 'year', 'frustrating']",5390, agree another shooter i forgot to mention that i really enjoyed is r siege but none of my buddies want to play since it has a higher learning curve so solo queueing gets boring so it’s always back to cod… i dont hate the game just agree paying for it every year is frustrating 
+277,"['yeah', 'like', 'crosshair', 'sights', 'crazy', 'attachments', 'waw', 'golden', 'weapons', 'cod']",5397,yeah like those crosshair sights and crazy attachments we had in waw or those golden weapons from cod 
+278,"['yep', 'waw', 'mw', 'gen', 'peak', 'cod']",5407,yep waw and mw on gen were peak cod
+279,"['serious', 'shit']",5411,more serious than this shit
+280,"['cosmetics', 'remember', 'game', 'perfectly', 'line', 'scifi', 'setting', 'tho', 'loot', 'crate', 'shit', 'annoying', 'actually', 'loved', 'advanced', 'warfare', 'feel', 'like', 'one']",5413,the cosmetics that i remember in that game were perfectly in line with its scifi setting tho the loot crate shit was annoying i actually loved advanced warfare but i feel like i’m the only one
+281,"['ghosts', 'meh', 'overall', 'absolute', 'bastard', 'hipfire', 'lmg', 'brought', 'great', 'joy']",5418,ghosts was meh overall but i was an absolute bastard with the hipfire only lmg and it brought me great joy 
+282,"['really', 'liked', 'ww', 'campaign', 'although', 'never', 'played', 'cod', 'thinking', 'getting', 'cheaper', 'used', 'copies', 'last', 'cods', 'campaigns', 'worth']",5422,i really liked the ww campaign although never played any other cod i was thinking of getting cheaper used copies of the last cods to get through the campaigns are they worth it 
+283,"['played', 'titanfall', 'cod', 'campaigns', 'mediocre', 'sorry', 'put', 'hours', 'justify', 'purchase']",5425,i've played titanfall the cod campaigns are not mediocre sorry i don't put hours into it to justify my purchase
+284,"['explain', 'skins', 'allowing', 'character', 'looking', 'like', 'killer', 'clown', 'bunch', 'painted', 'guns', 'comedic', 'point']",5426,how does that explain the skins allowing your character to looking like a killer clown with a bunch of painted guns that’s comedic at this point 
+285,"['year', 'activision', 'fuck', 'us', 'rather', 'usual', 'insane']",5431, a year for activision to fuck us over rather than the usual are you insane 
+286,"['left', 'new', 'campaign', 'new', 'open', 'world', 'zombies', 'new', 'gunsbut', 'please', 'rant', 'stomped', 'optimatch']",5440,left out the new campaign the new open world zombies new guns…but please rant on because you get stomped in optimatch 
+287,"['campaign', 'bad', 'mp', 'bleh', 'insanely', 'large', 'install', 'size', 'though', 'never', 'play']",5445,campaign wasn't bad mp was bleh the insanely large install size though is why i'll never play that again 
+288,"['easily', 'fun', 'cod', 'multiplayer', 'years', 'still', 'play']",5447,easily was the most fun cod multiplayer in years for me i still play it 
+289,"['basically', 'yep', 'dmz', 'hunt', 'showdown', 'extraction', 'shooter', 'genre', 'escape', 'tarkov', 'popularized', 'sure', 'eft', 'created', 'genre', 'seems', 'one', 'attributed']",5458,basically yep dmz and hunt showdown are both the same extraction shooter genre that escape from tarkov popularized not sure if eft created the genre or not but it seems to be the one most attributed to it
+290,"['pretty', 'sure', 'sniper', 'operator', 'gilly', 'suit', 'trash', 'bought', 'dope', 'af']",5466,pretty sure there was a sniper operator with a gilly suit of trash i bought it because it was dope af 
+291,"['oh', 'know', 'last', 'cod', 'played', 'original', 'mw']",5474,oh i don't know the last cod i played was the original mw 
+292,"['one', 'best', 'campaigns']",5484,it had one of the best campaigns too 
+293,"['competing', 'call', 'duty', 'arena', 'shooter', 'space', 'fluidly', 'cod', 'competing', 'madden', 'etc', 'love', 'lot', 'gaming', 'darling', 'games', 'sense', 'snobbery', 'around', 'yearly', 'release', 'titles', 'reeks', 'elitism', 'lame', 'cringelord', 'behaviour']",5486,who is competing with call of duty in the arena shooter space and doing it as fluidly as cod who is competing with madden k etc i love a lot of the r gaming darling games too but the sense of snobbery around here for yearly release titles reeks of elitism lame cringelord behaviour
+294,"['cod', 'ultimate', 'team']",5497,cod ultimate team
+295,"['missed', 'old', 'fortnite', 'started', 'wish', 'got', 'spawn', 'skins', 'cod']",5503,i missed all the old fortnite i just started i wish they got the spawn skins not cod 
+296,"['misunderstand', 'like', 'movement', 'movement', 'thing', 'separate', 'game', 'simple', 'cod', 'especially', 'competitive', 'standpoint', 'without', 'movement', 'game', 'becomes', 'corner', 'sitting', 'teams', 'shooting', 'nightmare', 'understand', 'makes', 'harder', 'lower', 'tiered', 'players', 'compete', 'players', 'advanced', 'movement', 'sbmm', 'making', 'people', 'miss', 'bullets', 'name', 'game', 'many', 'many', 'different', 'shooters', 'cod']",5504,you misunderstand i like the movement movement is the only thing that can separate yourself in a game as simple as cod especially from a competitive standpoint without movement the game becomes a corner sitting teams shooting nightmare i understand it makes it harder for lower tiered players to compete with players with advanced movement but that's what sbmm is for making people miss bullets is the name of the game in many many different shooters too not just cod 
+297,"['damn', 'horse', 'armor', 'downhill', 'literally', 'ceo', 'discussing', 'real', 'money', 'gun', 'reloads', 'stage', 'hated', 'typing']",5505,that damn horse armor it was all downhill from there we're literally at the ceo's discussing real money for gun reloads stage i hated typing that out
+298,"['thing', 'would', 'rather', 'less', 'play', 'cod', 'campaign', 'watch', 'cod', 'campaign']",5515,the only thing i would rather do less than play a cod campaign is watch a cod campaign 
+299,"['activision', 'blows', 'wz', 'replaces', 'half', 'baked', 'wz', 'vastly', 'worse', 'screw', 'players', 'skins', 'force', 'buy', 'new', 'ones', 'diehard', 'cod', 'stans', 'next', 'time', 'yearly', 'mandatory', 'tithe', 'comes', 'around', 'thanks', 'letting', 'us', 'keep', 'skins', 'daddy', 'activision']",5524,activision blows up wz and replaces it with a half baked wz that's vastly worse to screw players out of their skins and force them to buy new ones diehard cod stans the next time the yearly mandatory tithe comes around thanks for letting us keep our skins daddy activision 
+300,['shipment'],5533,shipment 
+301,"['yep', 'see', 'streamers', 'bitching', 'whining', 'cod', 'damn', 'time', 'whilst', 'continue', 'play', 'cod', 'day', 'day']",5542,yep you see streamers bitching and whining about cod all the damn time whilst they continue to play cod day after day 
+302,"['hell', 'yeah', 'games', 'zombies', 'historically', 'authentic']",5544,hell yeah games with zombies are historically authentic
+303,"['ridiculous', 'killstreaks', 'kills', 'match', 'lol', 'people', 'compaining', 'since', 'original', 'mw', 'miss', 'old', 'mp', 'character', 'customization', 'black', 'ops', 'used', 'crazy', 'cod', 'multi', 'feels', 'regressed', 'years', 'stopped', 'buying', 'like', 'black', 'ops', 'got', 'quarantine', 'cold', 'war', 'fun', 'playing', 'bit', 'friends', 'yeah', 'shitty', 'game']",5547,> before you had these ridiculous killstreaks that get most of the kills in a match lol people have been compaining about this since the original mw i do miss the old mp character customization black ops used to have crazy how cod multi feels it has regressed over the years i stopped buying them at like black ops then got in in quarantine with cold war was fun playing it a bit with friends but yeah it's such a shitty game
+304,"['golden', 'weapons', 'precedent', 'minor', 'cultural', 'phenomenon', 'time', 'saddam', 'hussein', 'golden', 'weapons', 'captured', 'photographed']",5548,the golden weapons have precedent it was a minor cultural phenomenon at the time because saddam hussein's golden weapons had been captured and photographed 
+305,"['fun', 'want', 'check', 'notes', 'serious', 'cod']",5551,fun get out we want *check notes* a more **serious** cod 
+306,"['militaristic', 'shooter', 'militaristic', 'shooter', 'since', 'first', 'game', 'always', 'run', 'gun', 'arcade', 'shooter']",5553,> militaristic shooter it hasn't been a militaristic shooter since the first game it has always been just a run and gun arcade shooter 
+307,"['think', 'correct', 'goofy', 'skins', 'cod', 'far', 'back']",5559,i don't think this is correct there have been goofy skins in cod as far back as 
+308,"['modern', 'warfare', 'campaigns', 'play', 'like', 'cold', 'war', 'movies', 'peak', 'michael', 'bay']",5567,the modern warfare campaigns play like cold war movies from the s or peak s michael bay 
+309,"['cod', 'campaigns', 'mediocrity', 'argue', 'worth', 'straight', 'cope']",5569,the cod campaigns are mediocrity and to argue they’re worth is just straight up cope
+310,"['bo', 'absolutely', 'better', 'bo', 'last', 'great', 'boots', 'ground', 'cod', 'great', 'multiplayer', 'zombies', 'campaign']",5576,bo is absolutely better than bo last great boots on the ground cod with great multiplayer zombies and campaign 
+311,"['played', 'cod', 'since', 'mw', 'launch', 'refunded', 'lmao', 'alright']",5578,i haven’t played cod since mw **launch** and i refunded lmao but alright
+312,"['dmz', 'gonna', 'warzone', 'updated', 'alongside', 'mw']",5591,dmz is gonna be in warzone which will get updated alongside mw 
+313,"['height', 'franchise', 'popularity', 'call', 'duty', 'actually', 'see', 'premium', 'subscription', 'service', 'inflation', 'adjusted', 'year']",5602,at the height of the franchise's popularity call of duty actually [did see its own premium subscription service] inflation adjusted it was about a year 
+314,"['called', 'blackcell']",5603,we have that its called blackcell 
+315,"['old', 'fortnite', 'one', 'never', 'got', 'cartoony', 'zombie', 'survival', 'shooter']",5629,the old fortnite is the one we never got; a cartoony zombie survival shooter
+316,"['tbf', 'horse', 'armor', 'also', 'gave', 'horse', 'extra', 'health']",5630,tbf horse armor was and also gave your horse extra health
+317,"['like', 'taking', 'skins', 'warzone', 'fix', 'new', 'release', 'mad', 'understand', 'peoples', 'hatred', 'call', 'duty', 'mind', 'blowing', 'lol']",5646,so you don’t like what they did by taking skins in warzone so they fix that for the new release and you’re mad about it i just don’t understand peoples hatred of call of duty it’s mind blowing lol 
+318,['cod'],5649,that was cod 
+319,"['saw', 'something', 'ago', 'either', 'treyarch', 'activision', 'blizzard', 'large', 'patented', 'something', 'like', 'purchases', 'give', 'easier', 'lobbies', 'touted', 'people', 'like', 'blamed', 'truth', 'cod', 'rage', 'commentators', 'find', 'actual', 'sources', 'patent', 'claim', 'companies', 'filed', 'edit', 'actually', 'find', 'patent', 'activision', 'file', 'patents', 'google', 'com', 'patent', 'us', 'en']",5652,i saw something a while ago about how either treyarch or activision blizzard at large patented something like this where purchases give you easier lobbies and it's been touted by people like blamed truth and other cod rage commentators but you can't find any actual sources to the patent they claim the companies filed for edit i actually did find the patent that activision did file patents google com patent us b en
+320,"['one', 'persistent', 'meme', 'cod', 'community', 'refuses', 'let', 'go', 'along', 'skill', 'based', 'footsteps', 'skill', 'based', 'damage', 'skill', 'based', 'lag', 'swear', 'god', 'cod', 'players', 'narcisisstic', 'conspiratorial', 'gamers', 'ever', 'make', 'random', 'bullshit', 'game', 'mechanics', 'explain', 'really', 'activision', 'fault', 'killstreak']",5653,this one is a persistent meme that the cod community refuses to let go of along with skill based footsteps skill based damage and skill based lag i swear to god cod players are some of the most narcisisstic conspiratorial gamers ever they will make up random bullshit about game mechanics to explain why it's really activision's fault that they aren't on a killstreak
+321,"['said', 'intended', 'year', 'cycle', 'leak', 'say', 'mw', 'glorified', 'dlc', 'need', 'mw', 'installed', 'play', 'beta', 'use', 'animations', 'mw', 'mw', 'warzone', 'use', 'engine']",5654,i said it being intended to be a year cycle was a leak i didn't say mw isn't a glorified dlc >why you need mw installed to play the beta why do they use same animations because mw mw & warzone all use the same engine 
+322,"['wacky', 'guns', 'fine', 'bright', 'neon', 'clown', 'operators', 'eyesore']",5657,wacky guns are fine it's just the bright neon clown operators that are an eyesore 
+323,"['play', 'mw', 'campaign', 'much', 'soul']",5665,did you play the mw campaign it had so much soul
+324,"['bo', 'better', 'multiplayer', 'zombies', 'pro', 'cod', 'better', 'watch', 'bo', 'campaign', 'stand', 'still', 'top', 'cod', 'doubt', 'bo', 'objectively', 'better']",5667,bo had better multiplayer zombies and pro cod was x better to watch bo only has its campaign to stand on still a top cod no doubt but bo was objectively better
+325,"['mcd', 'cod', 'comparison', 'apt', 'selling', 'products', 'designed', 'psychologically', 'addictive', 'possible', 'mcd', 'way', 'engineer', 'food', 'products', 'cod', 'way', 'engineer', 'matchmaking', 'eomm', 'optimize', 'user', 'engagement', 'leads', 'businesses', 'wildly', 'popular', 'wouldnt', 'consider', 'products', 'good', 'moreso', 'engineered', 'addictive', 'contrast', 'game', 'like', 'baulder', 'gate', 'nice', 'steakhouse', 'baulder', 'gate', 'game', 'trying', 'sell', 'story', 'expirence', 'keep', 'engaged', 'isnt', 'trying', 'psychologically', 'addicted', 'nice', 'steakhouse', 'trying', 'make', 'best', 'steak', 'possibly', 'make', 'optimize', 'menu', 'maximum', 'addictiveness', 'psycologically', 'addictive', 'good', 'cod', 'good', 'sense', 'mcd', 'cod', 'terrible', 'way', 'mcd', 'terrible', 'compared', 'good', 'steakhouse']",5670,the mcd and cod comparison is very apt they are both selling products that are designed to be as psychologically addictive as possible mcd does it by the way the engineer their food products and cod does it by the way the engineer their matchmaking with eomm to optimize user engagement this leads to these businesses being wildly popular but i wouldnt consider their products to be good moreso engineered to be addictive contrast this to a game like baulder's gate or a nice steakhouse baulder's gate is a game that is trying to sell you a story and an expirence to keep you engaged and isnt trying to get you psychologically addicted the nice steakhouse is trying to make the best steak they can possibly make not optimize their menu for maximum addictiveness psycologically addictive = good cod is good in the same sense mcd is cod is terrible in the same way mcd is terrible compared to a good steakhouse 
+326,"['disagree', 'cod', 'matchmaking', 'designed', 'psychologically', 'addictive', 'possible', 'eomm', 'way', 'mcd', 'engineers', 'food', 'addictive', 'possible', 'everyone', 'knows', 'products', 'terrible', 'addictiveness', 'always', 'keep', 'best', 'sellers']",5671,i disagree cod's matchmaking is designed to be as psychologically addictive as possible with eomm the same way mcd is engineers their food to be as addictive as possible everyone knows these products are terrible but the addictiveness will always keep them to be best sellers 
+327,"['already', 'said', 'dmz', 'getting', 'mw', 'integration', 'nothing', 'new', 'coming', 'life', 'support', 'open', 'world', 'zombies', 'mode', 'essentially', 'replacing']",5677,they already said that dmz will not be getting the mw integration nothing new is coming for it it’s on life support the open world zombies mode is essentially replacing it 
+328,"['fuck', 'remember']",5682,fuck i remember that
+329,"['mw', 'best', 'selling', 'call', 'duty', 'knew', 'would', 'sell', 'well', 'mw', 'made', 'million', 'within', 'days', 'releasing', 'january', 'made', 'billion', 'mw', 'made', 'million', 'days', 'took', 'ten', 'days', 'surpass', 'billion', 'call', 'duty', 'record', 'holders', 'mw', 'black', 'ops', 'make', 'another', 'mw', 'probably', 'going', 'better', 'mw', 'mainly', 'makarov', 'nostalgia', 'mw', 'opinion', 'mw', 'pretty', 'much', 'every', 'call', 'duty', 'since', 'call', 'duty', 'modern', 'warfare', 'reskin', 'anyway']",5684,mw is their best selling call of duty they knew it would sell well because mw made million within days of releasing and by january it had made over billion mw made million in days and it took ten days for it to surpass billion before that the call of duty record holders were mw and black ops why wouldn't they make another mw it's probably going to do better than mw mainly because of makarov and the nostalgia from mw in my opinion it's mw pretty much every call of duty since call of duty modern warfare is a reskin anyway 
+330,"['weird', 'people', 'consider', 'warzone', 'call', 'duty', 'love', 'multiplayer', 'campaign', 'hate', 'warzone']",5693,so weird to me how people consider warzone call of duty now i love the multiplayer and campaign i hate warzone 
+331,"['nah', 'got', 'reversed', 'play', 'campaign', 'years', 'release', 'cheap', 'podcast', 'sporting', 'event', 'side']",5695,nah you've got it reversed play the campaign a few years after release so you can get it cheap while having a podcast or sporting event on on the side 
+332,"['average', 'operator', 'pack', 'like', 'bucks', 'comes', 'gun', 'skins', 'operator', 'skin', 'sticker', 'fodder', 'one', 'cares']",5696,the average operator pack is like bucks and comes with gun skins and an operator skin no + some sticker fodder no one cares about 
+333,"['neither', 'multiplayer', 'warzone', 'wtf', 'point']",5704,neither is multiplayer or warzone wtf is your point 
+334,"['lol', 'cod', 'realistic', 'campaigns', 'maybe', 'multiplayer', 'never', 'got', 'people', 'quick', 'scoping', 'drop', 'shotting', 'bunny', 'hopping', 'perks', 'give', 'different', 'abilities', 'nothing', 'multiplayer', 'ever', 'realistic']",5706,lol cod realistic the campaigns maybe but the multiplayer never has been when you got people quick scoping drop shotting bunny hopping perks that give you different abilities nothing about the multiplayer has ever been realistic 
+335,"['cod', 'launched', 'first', 'game', 'multiplayer', 'aside', 'single', 'player', 'campaign', 'god', 'awful', 'single', 'player', 'ok', 'saving', 'private', 'ryan', 'beach', 'scene', 'thing', 'always', 'arcade', 'like', 'honestly', 'surprised', 'multiplayer', 'took', 'guns', 'much', 'spread', 'practically', 'top', 'someone', 'even', 'hit', 'let', 'alone', 'kill', 'em']",5707,i was in my 's when cod launched the first game had multiplayer as an aside from the single player campaign and it was god awful single player was ok with that saving private ryan beach scene thing but it's *always* been arcade like it honestly surprised me when the multiplayer took off the guns had so much spread that you practically had to be on top of someone to even hit them let alone kill 'em 
+336,"['bad', 'mw', 'launch', 'played', 'matches', 'dogshit', 'sbmm', 'kicked', 'put', 'sweat', 'lobbies', 'noped', 'outta']",5712,my bad mw **launch** and i played a few matches and their dogshit sbmm kicked in and put me in sweat lobbies so i noped outta there
+337,"['naw', 'literally', 'op', 'describing']",5722,naw what they literally do what op is describing
+338,"['playing', 'ghosts', 'day', 'picking', 'cheap', 'football', 'runescape', 'lol']",5725,i was just playing ghosts the other day after picking it up for cheap and did this with football runescape lol
+339,"['thats', 'still', 'lot', 'basically', 'nothing', 'compare', 'bo', 'zombie', 'chronicles', 'remastered', 'maps', 'easter', 'egg', 'quests', 'gun', 'skins', 'gobblegums', 'consumable', 'item', 'currency', 'gobblegums', 'dollars', 'cosmetics', 'rip']",5726,thats still a lot for basically nothing compare that to bo zombie chronicles which had remastered maps most of them with their own easter egg quests gun skins gobblegums a consumable item and some currency to get the gobblegums that was dollars for just cosmetics is a rip off
+340,"['free', 'gamepass', 'trash', 'game', 'sell', 'otherwise', 'lol', 'play', 'cod', 'fun', 'undisputedly', 'popular', 'shooter', 'time', 'btw', 'lmk', 'many', 'cods', 'gamepass', 'time', 'mcdonald']",5731,it’s free on gamepass because it’s a trash game that can’t sell otherwise lol i play cod because its fun and it’s undisputedly the most popular shooter of all time btw lmk how many cods are on gamepass when you get time off at mcdonald’s 
+341,"['new', 'cods', 'mp', 'wz', 'cannon', 'story', 'iw', 'said', 'mp', 'takes', 'place', 'campaigns', 'sorry', 'tell', 'spoiled', 'mw', 'makarov', 'killed', 'graves', 'still', 'alive', 'yeah']",5735,in the new cods mp and wz are cannon to the story iw said so themselves mp takes place after the campaigns so sorry to tell you they spoiled mw makarov doesn’t get killed and graves is still alive so yeah 
+342,"['campaign', 'mostly', 'referring', 'however', 'take', 'cod', 'multiplayer', 'compare', 'multiplayer', 'today', 'night', 'day', 'difference', 'realism', 'least', 'soldiers', 'relatively', 'realistic', 'attire', 'weapons']",5736,the campaign is what i was mostly referring to however take cod ’s multiplayer and compare it to the multiplayer today and it’s a night and day difference in realism at least they were all soldiers with relatively realistic attire and weapons 
+343,"['man', 'think', 'back', 'mw', 'player', 'cards', 'icons', 'unlocked', 'specific', 'things', 'game', 'good', 'days', 'remember', 'killed', 'someone', 'shooting', 'claymore', 'wall', 'probably', 'never', 'took', 'icon']",5758,man i think back to mw and the player cards and icons you unlocked for doing specific things in game those were the good days i remember when i killed someone by shooting a claymore through and wall; probably never took that icon off after that 
+344,"['interesting', 'take', 'starfield', 'gamepass', 'available', 'playstation', 'still', 'sold', 'million', 'copies', 'month', 'lol', 'edit', 'also', 'calling', 'cod', 'undisputed', 'greatest', 'shooter', 'time', 'confirms', 'played', 'pc', 'shooters', 'especially', 'counter', 'strike']",5763,this is an interesting take when starfield is on gamepass and is not available on playstation and still sold million copies in a month lol edit also calling cod the undisputed greatest shooter of all time confirms you haven't played pc shooters especially counter strike
+345,"['sound', 'fkn', 'stupid', 'lol', 'mcdonalds', 'got', 'go', 'back', 'playing', 'bummy', 'game', 'mommies', 'wifi']",5765,you sound fkn stupid lol mcdonalds that all you got what are go back playing your bummy game with your mommies wifi
+346,"['yes', 'quick', 'scoping', 'realism', 'needed', 'back', 'day']",5770,yes because quick scoping was the realism we needed back in the day
+347,"['daydreaming', 'realistic', 'spec', 'ops', 'operators', 'lovingly', 'applying', 'bright', 'blue', 'tiger', 'stripes', 'weapon']",5771,*daydreaming about realistic spec ops operators lovingly applying bright blue tiger stripes to their weapon*
+348,"['still', 'pissed', 'legit', 'spinning', 'th', 'prestige', 'emblem', 'literally', 'stayed', 'locked', 'like', 'could', 'unlock', 'bastards', 'never', 'let', 'us', 'think', 'criminal', 'went', 'gold', 'guns', 'maxing', 'camos', 'shitty', 'fall', 'camo']",5784,still pissed you couldn't legit get the spinning th prestige emblem it literally stayed locked like we could unlock it but those bastards never did let us think it's criminal how we went from gold guns for maxing out the camos to that shitty fall camo 
+349,"['jesus', 'saying', 'fucking', 'arma', 'missing', 'point', 'maybe', 'actually', 'read', 'saying', 'cod', 'compared', 'stupid', 'colorful', 'skins', 'guns', 'place', 'think', 'like', 'around', 'cod', 'waw', 'times']",5796,jesus i’m not saying it was fucking arma you’re missing my point… maybe actually read i’m saying cod then compared to now you didn’t have all these stupid colorful skins and guns all over the place think like around cod and waw times 
+350,"['calling', 'cod', 'campaigns', 'triple', 'laughable', 'though', 'undeniably', 'polished', 'enjoyable', 'triple', 'maps', 'already', 'played', 'copy', 'pasted', 'layouts', 'additions', 'added', 'give', 'new', 'guns']",5801,calling cod campaigns triple a is laughable though undeniably polished and enjoyable they are not triple a maps you’ve already played before and are just copy pasted layouts with some additions added i’ll give you the new guns but that’s about it
+351,"['lol', 'mean', 'like', 'red', 'blue', 'tiger', 'camo', 'golden', 'guns', 'shut', 'dude', 'arguing', 'someone', 'played', 'cod', 'mw', 'every', 'day', 'middle', 'school', 'shit', 'realistic', 'serious', 'sense']",5814,lol you mean like red blue tiger camo and golden guns shut up dude you're arguing with someone who played cod mw every day in middle school that shit was not realistic or serious in any sense 
+352,"['play', 'cod', 'lol']",5826,i don’t play cod lol
+353,"['serious', 'retorted', 'point', 'referring', 'golden', 'tiger', 'camo', 'mw', 'originally', 'cod', 'lol', 'maybe', 'projecting', 'cause', 'definitely', 'proving', 'point', 'lol', 'see', 'even', 'referring', 'mw', 'fine', 'like', 'game', 'post', 'remastered', 'version', 'mw', 'maybe', 'try', 'calm', 'touch', 'grass']",5840,are you serious i retorted your point by referring to the golden tiger camo in mw originally from cod lol *** maybe you're projecting cause you're definitely not proving your point lol i see you're not even referring to mw that fine you don't have to like the game but this post is about a remastered version of mw so maybe just try to calm down and touch grass 
+354,"['oh', 'interest', 'cod', 'whatsoever', 'played', 'first', 'game', 'bothered', 'since', 'single', 'player', 'fine', 'bf', 'already', 'multiplayer', 'rehashed', 'ut', 'quake', 'doom', 'soldier', 'fortune', 'ii', 'nothing', 'interesting']",5848,oh i have no interest in cod whatsoever played that first game and haven't bothered with it since the single player was fine but bf was already out so the multiplayer was just rehashed ut or quake or doom or soldier of fortune ii nothing interesting 
+355,"['indeed', 'stopped', 'buying', 'cod', 'every', 'year']",5855,indeed i do it’s why i stopped buying cod every year
+356,"['nice', 'working', 'dreamcast', 'hard', 'find', 'lol', 'glad', 'shenmue', 'systems', 'though', 'lol']",5901,nice to have a working dreamcast those are hard to find lol glad shenmue is on other systems though lol
+357,"['painting', 'awesome']",5905,that painting is awesome 
+358,"['painting', 'awesome', 'artist', 'name', 'found']",5934,that painting is awesome any artist name found on it 
+359,"['use', 'scart', 'connections', 'use', 'composite', 'cables']",5941,do you use the scart connections or do you use composite cables 
+360,"['largest', 'crt', 'tv', 'ever', 'produced', 'inches', 'maybe', 'misremembering', 'would', 'pretty', 'rare', 'find', 'particular', 'sony']",5966,the largest crt tv ever produced was inches so maybe you are misremembering would have been a pretty rare find if it was that particular sony
+361,"['even', 'baby', 'og', 'nes']",6015,even if you aren't an s baby get yourself an og nes 
+362,"['pretty', 'neat', 'actually', 'never', 'used', 'save', 'states', 'snes', 'lot', 'fair', 'nes', 'needed', 'pad', 'game', 'length', 'holdover', 'arcades']",6022,that is pretty neat actually i never used save states on snes as they are a lot more fair than nes which just needed to pad game length holdover from arcades 
+363,"['heck', 'ya', 'duck', 'hunt', 'yoshi', 'safari', 'super', 'nes', 'uses', 'super', 'scope']",6024,heck ya duck hunt and yoshi’s safari for the super nes that uses the super scope 
+364,"['aiight', 'mr', 'diet', 'soda', 'lol']",6027,aiight mr diet soda lol
+365,"['would', 'definitely', 'quest', 'price', 'new', 'quest', 'buy', 'cable', 'works', 'like', 'rift', 'higher', 'resolution', 'still', 'supported', 'oculus']",6100,i would definitely get a quest its the same price as a new quest and if you buy a cable it works like rift but with a higher resolution and its still supported by oculus
+366,"['battlebit', 'remastered', 'developed', 'guys', 'roblox', 'like', 'graphics', 'players', 'battlefield']",6103,battlebit remastered developed by guys and roblox like graphics has x more players than battlefield 
+367,['nope'],6114,nope
+368,"['gonna', 'say', 'roundhouse', 'kick', 'temple', 'late', 'abortion', 'works']",6135,i was gonna say a roundhouse kick to the temple but late abortion works too 
+369,"['remember', 'cooking', 'mumma', 'ds', 'sandwiches', 'remind']",6236,remember cooking mumma on ds that’s what the sandwiches remind me of 
+370,"['devs', 'dragged', 'kicking', 'screaming', 'shows']",6269,the devs had to be dragged kicking and screaming to d it shows 
+371,"['think', 'missing', 'something', 'like', 'looking', 'movie', 'without', 'glasses', 'haptic', 'gloves', 'scary', 'tummy', 'rumbler', 'pack']",6436,i think we are missing something like we are looking at a d movie without the glasses or haptic gloves and scary tummy rumbler pack 
+372,"['exactly', 'profitable', 'lol']",6551,that’s exactly why they’re so profitable lol
+373,"['subway', 'surfers', 'looks', 'sick']",6561,this subway surfers looks sick
+374,"['even', 'psp', 'better', 'remember', 'jax', 'dexter', 'could', 'jack', 'dexter', 'quite', 'remember']",6645,even the psp was better remember jax and dexter it could be jack and dexter can’t quite remember 
+375,"['jeez', 'heard', 'bad', 'man', 'looks', 'like', 'internal', 'beta', 'leaked']",6750,jeez i heard it was bad but man that looks like an internal beta that's been leaked
+376,"['ist', 'pickaxe', 'farming', 'materials', 'fortnite', 'great', 'game']",6868,where ist his pickaxe why is he not farming materials fortnite is such a great game s
+377,"['referring', 'pubg']",6901,they referring to pubg 
+378,"['bitches', 'stop', 'bitches']",6951,when will you bitches stop being bitches 
+379,"['back', 'day', 'superman', 'liked', 'everyone', 'boo', 'hoos']",7090,back in my day we had superman and we liked it now everyone just boo hoos 
+380,"['always', 'baffle', 'folks', 'dive', 'day', 'bitch', 'whole', 'day', 'karma', 'lol']",7185,it will always baffle me that folks dive in day and bitch the whole day for karma lol
+381,"['whe', 'ever', 'seen', 'pokemo', 'game', 'good', 'gfx', 'gta', 'cod', 'nobody', 'plays', 'gfx', 'lol']",7211,whe have you ever seen a pokemo game with good gfx this isn't gta or cod nobody plays this for gfx lol 
+382,"['quit', 'buying']",7271,quit buying it
+383,"['quit', 'buying', 'garbage']",7346,then quit buying their garbage 
+384,"['need', 'expansion', 'pak']",7427,need the expansion pak 
+385,"['like', 'surprised']",7574,i like how you’re surprised
+386,"['really', 'dropped', 'ball']",7600,they really dropped the ball here again
+387,"['hey', 'charm', 'ps', 'polygon', 'graphics', 'lol']",7636,hey there is some charm to ps polygon graphics lol
+388,"['glad', 'pre', 'order']",7671,i'm glad i didn't pre order it
+389,"['really', 'try', 'shot', 'ya']",7801,really had to try to get this shot didn't ya 
+390,"['yeah', 'motorcyclemons', 'lol']",7804,yeah the motorcyclemons weren’t it for me lol
+391,"['quit', 'fun', 'vibe', 'posts', 'trashing', 'games']",7843,very 'quit having fun' vibe from all these posts trashing the games
+392,"['remember', 'runescape', 'still']",7915,remember runescape it’s still out there
+393,"['feed', 'nintendo', 'livestock']",7923,just more feed for the nintendo livestock 
+394,"['come', 'playing', 'shin', 'megami', 'tensei', 'nocturne', 'nowhere', 'near', 'ugly', 'remaster', 'burnt', 'original', 'ps', 'disc']",7945,come on i'm playing shin megami tensei nocturne and it's nowhere near as ugly as this no not the remaster i burnt the original on a ps disc
+395,"['dfx', 'voodoo', 'vibes']",7966, dfx voodoo vibes
+396,"['miss', 'ds', 'days']",8102,i miss the ds days…
+397,"['like', 'ps', 'game', 'gran', 'turismo', 'ps', 'looks', 'realistic']",8111,more like a ps game gran turismo on ps looks very realistic
+398,"['reminds', 'thrillville']",8192,reminds me of thrillville 
+399,"['remember', 'preordered', 'problem']",8338,just remember if you preordered you are the problem 
+400,"['toilet', 'seat', 'back']",8364,is that a toilet seat on your back 
+401,"['couldve', 'used', 'unreal']",8453,couldve just used unreal 
+402,"['please', 'quit', 'buying']",8491,please quit buying them then
+403,"['glad', 'buy', 'stick', 'playing', 'brilliant', 'diamond']",8509,so glad i didn’t buy i’ll stick to playing brilliant diamond 
+404,"['looks', 'like', 'nutsack', 'filled', 'oil', 'dipped', 'acid']",8563,it looks like my nutsack filled with oil and dipped in acid 
+405,['lol'],8704,lol
+406,"['luigi', 'mansion', 'monster', 'hunter', 'rise', 'fast', 'rmx', 'astral', 'chain', 'etc']",8826,or luigi's mansion monster hunter rise fast rmx astral chain etc 
+407,"['cod', 'fanboys', 'agree']",9003,cod fanboys agree 
+408,"['hyper', 'realism', 'days', 'back', 'day', 'hyper', 'realism', 'possible', 'mean', 'games', 'looked', 'like', 'shit', 'charm', 'art', 'style']",9031,it's all about hyper realism these days back in the day hyper realism wasn't possible but that doesn't mean the games looked like shit they had their own charm and art style 
+409,"['sounds', 'awfully', 'similar', 'us', 'madden']",9133,sounds awfully similar to us over in r madden
+410,"['damn', 'sounds', 'like', 'activision', 'wow', 'complainers']",9174,damn this sounds like activision wow complainers
+411,"['cod', 'lazy', 'think', 'contrary', 'popular', 'belief']",9228,cod isn't as lazy as you think contrary to popular belief 
+412,"['people', 'like', 'numw', 'people', 'play', 'warzone']",9229,very few people like numw and people only play warzone because it's f p 
+413,"['hahahhahaha', 'definitely', 'casual']",9230,hahahhahaha no it definitely hasn’t casual 
+414,"['quit', 'taking', 'shit', 'screenshots']",9283,and quit taking shit screenshots 
+415,"['yea', 'cool', 'would', 'realistic', 'version']",9364,yea but how cool would a more realistic version be 
+416,"['mario', 'fnf', 'smash', 'bros', 'overwatch', 'call', 'duty', 'real', 'life', 'fortnite', 'fans']",9403,same with mario fnf smash bros overwatch call of duty real life and fortnite fans 
+417,"['transfer', 'phone', 'pc', 'though']",9417,can you transfer it to your phone or pc though 
+418,"['football', 'vibes']",9650,e football vibes
+419,"['contests', 'base', 'ever', 'come', 'back', 'ruby', 'sapphire', 'remember', 'pretty', 'engrossing', 'back', 'day']",9754,did contests and base ever come back from ruby and sapphire i remember those being pretty engrossing back in the day
+420,"['also', 'need', 'speed', 'hot', 'persuit', 'burnout', 'paradise', 'remastered']",9785,also need for speed hot persuit and burnout paradise remastered 
+421,"['black', 'white', 'dogshit']",9849,black and white is dogshit what are you on about
+422,"['call', 'duty', 'cod', 'grey', 'cod', 'brown', 'exact', 'game', 'different', 'guns']",9907,call of duty should do this cod grey and cod brown exact same game but different guns
+423,"['buddy', 'mine', 'pirated', 'two', 'days', 'came', 'lol', 'pre', 'orders', 'suck', 'dick']",9994,a buddy of mine pirated it two days before it came out lol pre orders can suck dick
+424,"['plays', 'best', 'okama', 'gamesphere']",10022,plays best on the okama gamesphere
+425,"['sound', 'torches', 'pitchforks', 'taken', 'heard', 'distance']",10111,*the sound of torches and pitchforks being taken up can be heard in the distance*
+426,"['yeah', 'sounds', 'good', 'guess']",10122,yeah sounds good to me i guess 
+427,"['wih', 'could', 'jut', 'buy', 'campaign', 'interest', 'playing', 'cod', 'mp']",10166,i wih i could jut buy the campaign i have no interest in playing cod mp 
+428,"['take', 'microsd', 'card', 'transfer', 'pc', 'still', 'slightly', 'annoying', 'way', 'faster']",10201,i just take the microsd card out and transfer them to pc still slightly annoying but way faster 
+429,"['upload', 'twitter', 'download', 'pic', 'much', 'faster', 'connect', 'pc', 'usb', 'cable']",10202,just upload it to twitter and download the pic from there much faster or connect it to pc with usb cable 
+430,['cope'],10208,cope
+431,"['yeah', 'think', 'another', 'pokemon', 'legends', 'either', 'unova', 'involving', 'big', 'dragon', 'reshiram', 'zekrom', 'kyurem', 'part', 'alola', 'ultra', 'beasts', 'something', 'want', 'see', 'ultra', 'beasts']",10249,yeah i think if we get another pokémon legends it should be in either unova involving that big dragon reshiram zekrom and kyurem were part of or alola ultra beasts or something i just want to see more ultra beasts 
+432,"['haha', 'ghost', 'growlithe']",10275,haha and a ghost growlithe too 
+433,['disagree'],10308,i don't disagree with you
+434,"['think', 'remembering', 'correctly']",10310,i don't think you're remembering correctly 
+435,"['gonna', 'argue', 'lol']",10393,not gonna argue at all lol
+436,['lol'],10410,lol
+437,['lol'],10428,lol
+438,"['shoot', 'got', 'doom', 'somehow']",10434,shoot they got doom on there somehow 
+439,"['poke', 'could', 'dynamax', 'xl', 'power', 'would', 'actually', 'change', 'appearances', 'called', 'gigantamax', 'side', 'quest', 'dlc', 'unlock', 'poke', 'per', 'poke', 'basis']",10475,they did any poke could dynamax and get xl'd and power up but only a few would actually change appearances called gigantamax and you had to do a side quest in the dlc to unlock it on a poke per poke basis
+440,"['ha', 'fixed', 'serious']",10610,ha fixed by then you can't be serious 
+441,['disagree'],10639, i disagree 
+442,['lol'],10678,lol no
+443,"['serious', 'please', 'tell', 'true']",10696,are you serious please tell me it's true
+444,"['reminds', 'infamous', 'cod', 'boycott', 'steam', 'group']",10780,it reminds me of the infamous cod boycott steam group 
+445,"['connect', 'pc', 'via', 'usb', 'cable']",10836,you can connect to pc via usb cable
+446,"['hell', 'yeah', 'bring', 'ultra', 'beasts', 'idk', 'means', 'sounds', 'good', 'give', 'ultra', 'beast', 'alolan', 'raichu']",10862,hell yeah bring on the ultra beasts idk what that means but that sounds good give me ultra beast alolan raichu
+447,"['either', 'sound', 'cool', 'wanting', 'game', 'original', 'dragon', 'since', 'black', 'white', 'feature', 'never', 'thought', 'alola', 'one', 'ultra', 'beasts', 'ultra', 'sun', 'moon', 'feature', 'little', 'pockets', 'ultra', 'space', 'legends', 'game', 'could', 'potentially', 'exploring', 'wide', 'open', 'ultra', 'space', 'instead', 'tiny', 'pockets', 'like', 'massive', 'portal', 'ultra', 'space', 'opens', 'gets', 'quarantined', 'something', 'recruited', 'tasked', 'explore', 'figure', 'opened', 'maybe', 'close', 'note', 'played', 'usum', 'know', 'shiny', 'hunting', 'method', 'involved', 'ultra', 'worm', 'holes', 'least', 'little', 'pieces', 'land', 'ultra', 'beasts', 'isolated', 'also', 'sinnoh', 'legends', 'game', 'exploring', 'distortion', 'world', 'freely', 'would', 'awesome', 'well']",10863,either of those sound cool i've been wanting a game with the original dragon since black and white didn't feature it never thought of an alola one with the ultra beasts didn't ultra sun and moon feature little pockets of the ultra space a legends game could potentially have you exploring a more wide open ultra space instead of tiny pockets like a massive portal to ultra space opens and gets quarantined off or something and you are recruited and tasked to explore it figure out why it opened and how to maybe close it *note i have not played usum i just know a shiny hunting method involved ultra worm holes and there were at least just little pieces of land for the ultra beasts that you were on but were isolated also a sinnoh legends game exploring the distortion world more and more freely would be awesome as well 
+448,"['remember', 'gen', 'shitstorm', 'well', 'fanbase', 'really', 'serious', 'amnesia']",10886,i remember the gen shitstorm as well the fanbase really has some serious amnesia
+449,"['oh', 'completely', 'understandable', 'yeah']",10893,oh that’s completely understandable yeah 
+450,"['madden', 'yeah', 'better', 'feeling', 'gripping', 'stick', 'returning', 'punts', 'nailing', 'kicks', 'running', 'backs', 'real', 'fakin', 'sick', 'halfback', 'stop', 'touchdown', 'bound', 'jeff', 'follow', 'block', 'offensive', 'line', 'locking', 'block', 'fourth', 'inches', 'stopped', 'third', 'long', 'stretching', 'field', 'chasin', 'corner', 'see', 'chill', 'offense', 'stop', 'defense', 'stop', 'yeah', 'braggin', 'hitting', 'taggin', 'madden', 'yeah']",10951,madden is it yeah no better feeling then gripping the stick returning my punts nailing my kicks my running backs real fakin' is sick halfback don't stop touchdown bound jeff follow his block my offensive line locking the block fourth and inches we can't be stopped third and long we stretching the field chasin the corner see if he chill offense won't stop no defense won't stop no yeah we braggin and hitting and taggin' on madden yeah 
+451,"['salty', 'bethesdha', 'baby', 'done', 'better', 'someone', 'else', 'lol']",11026,they are just as salty as bethesdha for having their baby done better by someone else lol
+452,"['fuck', 'yeah']",11044,fuck yeah
+453,"['finally', 'reason', 'pre', 'order']",11199,finally a reason to pre order
+454,['lol'],11207,lol 
+455,"['problems', 'cold', 'war', 'pc', 'campaign', 'awesome']",11289,i didn’t have any problems with cold war on pc and that campaign was awesome
+456,"['mw', 'crashes', 'least', 'twice', 'night', 'nothing', 'replicate', 'last', 'minutes', 'tarkov', 'dmz', 'sliding', 'sniper', 'shot', 'getting', 'ran', 'spawning', 'leveling', 'post', 'match', 'fucking', 'booting', 'game']",11291,mw crashes at least twice a night with me and it's nothing at all that i can replicate the last have been minutes into ~~tarkov~~ dmz sliding out of a sniper shot getting ran over while spawning leveling up post match and fucking booting the game 
+457,"['wait', 'treyarch', 'worked', 'cold', 'war', 'vanguard', 'came', 'cold', 'war']",11292,wait what treyarch worked on cold war and vanguard came out after cold war 
+458,['lol'],11333,lol
+459,"['botw', 'mk', 'deluxe']",11403,and botw and mk deluxe
+460,"['remember', 'wanting', 'cod', 'rc', 'plane', 'plane', 'forget', 'installment']",11547,i remember wanting the cod rc plane just for the plane i forget which installment it was
+461,"['holy', 'shit', 'missing', 'go', 'play', 'game']",11579,holy shit you're missing out go play that game 
+462,"['ps', 'psvita', 'pc', 'emulator', 'steam', 'xbox', 'one', 'switch', 'remember', 'stoked', 'talk', 'friends', 'lunch', 'table', 'middle', 'school', 'borrowing', 'friends', 'memory', 'card', 'magus', 'sisters', 'unlocked', 'miss']",11586,ps psvita pc emulator steam xbox one switch i just remember being so stoked to talk about it with my friends at the lunch table in middle school borrowing my friends memory card who had the magus sisters unlocked i miss it 
+463,"['pokemon', 'devs', 'bet', 'people', 'would', 'defend', 'anything', 'bet']",11626,pokemon devs bet that people would defend anything and won the bet 
+464,['cheating'],11631,_that’s cheating > _
+465,"['oh', 'sure', 'pc', 'players', 'lucked', 'cold', 'war', 'campaign', 'really', 'good', 'treyarch', 'best', 'cod', 'dev', 'imo']",11665,oh for sure pc players lucked out with cold war and the campaign was really good treyarch is the best cod dev imo
+466,"['activision', 'calls', 'shots', 'iw', 'dynamic', 'studios', 'interesting', 'though', 'must', 'tension', 'treyarch', 'pick', 'slack', 'however', 'iw', 'taking', 'near', 'exclusive', 'lead', 'engine', 'development', 'well', 'leading', 'role', 'warzone', 'addition', 'fully', 'fledged', 'campaign', 'multiplayer', 'makes', 'sense', 'would', 'need', 'help', 'disagree', 'backdooring', 'rather', 'financial', 'decision', 'activision', 'studio', 'needs', 'help', 'finish', 'product', 'studio', 'still', 'deliver', 'viable', 'stunted', 'product', 'lending', 'additional', 'help', 'studio', 'short', 'term', 'profit', 'driven', 'thinking', 'profitable', 'nonetheless', 'extent', 'treyarch', 'victim', 'success', 'warzone', 'job', 'well', 'enough', 'able', 'fill', 'gaps', 'needed', 'think', 'iw', 'position', 'warzone', 'financial', 'darling', 'cod', 'right', 'even', 'activision', 'knows', 'slice', 'open', 'golden', 'goose']",11666,activision calls the shots here not iw the dynamic between the studios is interesting though and there must be some tension there with treyarch having to pick up slack however with iw taking the near exclusive lead in engine development as well as of a leading role in warzone in addition to a fully fledged campaign and multiplayer it makes sense that they would need some help i disagree that this is about backdooring but rather a financial decision from activision studio a needs help to finish their product studio b can still deliver a viable if stunted product while lending additional help to studio a short term profit driven thinking but profitable nonetheless to an extent treyarch is a victim of their own success and warzone's they do their job well enough that they are able to fill in the gaps where needed i don't think iw is in this position because warzone is the financial darling of cod right now and even activision knows not to slice open that golden goose 
+467,"['originally', 'going', 'call', 'duty', 'schedule', 'ww', 'released', 'followed', 'bo', 'cod', 'law', 'dictates', 'sequel', 'years', 'per', 'studio', 'fact', 'sledgehammer', 'turn', 'year', 'unfortunately', 'vanguard', 'whatever', 'sh', 'game', 'vietnam', 'also', 'ready', 'activision', 'basically', 'ordered', 'treyarch', 'pick', 'slack', 'knowing', 'good', 'studio', 'nd', 'time', 'row', 'fucked', 'treyarch', 'cod', 'game', 'edit', 'imo', 'rumors', 'cod', 'taking', 'break', 'next', 'year', 'hype', 'treyarch', 'receives', 'full', 'years', 'next', 'gen', 'black', 'ops', 'everyone', 'leave', 'fuck', 'alone']",11667,originally going by the call of duty schedule ww released in followed by bo in cod law dictates a sequel in years per studio was in fact sledgehammer's turn that year unfortunately vanguard or whatever sh's game was vietnam also wasn't ready so activision basically ordered treyarch to pick up their slack knowing how good they are as a studio but for the nd time in a row fucked up treyarch's cod game edit imo all these rumors of cod taking a break next year are hype because treyarch receives a full years for a next gen black ops and everyone has to leave them the fuck alone 
+468,"['lol', 'remember', 'running', 'gag']",11742,lol i remember this was a running gag
+469,['fuck'],11768,the fuck are you on about 
+470,"['alot', 'like', 'pc', 'slimmed']",11778,is it alot like pc or very slimmed down 
+471,"['bringing', 'null', 'point']",11849,then bringing it up is a null point then 
+472,"['interesting', 'knew', 'treyarch', 'asked', 'help', 'zombies', 'slegehammer', 'causing', 'definitely', 'felt', 'poor', 'man', 'zombie', 'mode', 'launch', 'fact', 'treyarch', 'working', 'vg', 'cw', 'zombies', 'nothing', 'short', 'exhausting', 'miracle']",11925,interesting all i knew was that treyarch was asked to help with their zombies after slegehammer couldn't do it causing what was definitely felt as a poor man's zombie mode at launch the fact that treyarch was working on both vg and cw zombies is nothing short of an exhausting miracle 
+473,"['sound', 'like', 'buthurt', 'weeb']",11943,and you sound like a buthurt weeb
+474,['dunno'],11946,dunno then 
+475,"['dude', 'playing', 'doom', 'sideloaded', 'quest', 'awesome', 'stuff', 'ever', 'lol']",11978,dude i've been playing doom sideloaded on the quest and it is the most awesome stuff ever lol
+476,"['fast', 'inverse', 'square', 'root', 'lighting', 'fps', 'existed', 'long', 'carmack', 'arcade', 'tank', 'shooters']",11988,fast inverse square root is for lighting the fps existed long before carmack arcade tank shooters 
+477,"['anyone', 'else', 'remember', 'breath', 'wild', 'zelda', 'game', 'lit']",11998,does anyone else remember breath of the wild [zelda game] [ {it’s lit]
+478,"['got', 'serious', 'kick', 'part', 'apple', 'also', 'appreciate', 'least', 'koraidon', 'literally', 'toothless', 'dragon', 'yeah', 'introducing', 'koraidon', 'neat', 'like', 'way', 'handled', 'whole', 'sequence']",12086,i got a serious kick out of the part with the apple > i also appreciate that at least koraidon is literally just toothless the dragon yeah introducing koraidon was neat i like the way that was handled through that whole sequence 
+479,"['understandable', 'nice', 'day']",12111,understandable have a nice day 
+480,"['thought', 'eye', 'sight', 'lol']",12125,i thought it was my eye sight lol
+481,"['fair', 'enough', 'point', 'point', 'still', 'stands', 'adjusted', 'inflation', 'bunch', 'real', 'crappy', 'vapid', 'blockbusters', 'go', 'list', 'avatar', 'garbage', 'movie', 'still', 'avengers', 'endgame']",12194,fair enough point but the point still stands that when adjusted for inflation there are a bunch of real crappy vapid blockbusters as you go down that list avatar is a garbage movie and it's still # and avengers endgame is # 
+482,"['ah', 'yes', 'ever', 'classy', 'rubber', 'glue', 'defense', 'played', 'yet', 'also', 'butthurt', 'one']",12197,ah yes the ever classy “i’m rubber and you’re glue” defense i haven’t played it yet i’m also not the butthurt one here 
+483,"['ah', 'casual', 'racism', 'nice', 'one']",12198,ah casual racism nice one
+484,"['anyone', 'else', 'remember', 'sonic', 'fountaineers', 'fuckin', 'epic', 'bro']",12232,does anyone else remember sonic fountaineers was fuckin epic bro
+485,"['would', 'steamdeck', 'work', 'mouse', 'mac', 'pc']",12258,would the steamdeck work with a mouse on a mac or just pc 
+486,"['cool', 'sounds', 'good']",12344,cool sounds good 
+487,"['said', 'something', 'stupid', 'corrected', 'literally', 'butthurt', 'screenshot', 'railing', 'food', 'given', 'right', 'complain', 'something', 'even', 'experienced', 'went', 'butthurt', 'whining', 'hear', 'foolish', 'sound']",12386,no you said something stupid i corrected you because you’re literally butthurt over a screenshot and railing about how it’s your food given right to complain about something you haven’t even experienced then you went off on your further butthurt whining because you can’t hear how foolish you sound 
+488,"['missed', 'stroke', 'guess', 'game', 'average', 'mf', 'lol']",12416,you missed you having a stroke are we i guess that's what the game does to the average mf lol 
+489,['fuck'],12670,what the fuck
+490,"['first', 'person', 'shooters', 'like', 'arsenal', 'reccomend', 'like', 'yew', 'ars']",12763,first person shooters like arsenal i reccomend for like yew ars
+491,['lol'],12782,lol
+492,"['nope', 'stand', 'firm', 'firm', 'robolox', 'household']",12962,nope stand firm i'm a firm no robolox household 
+493,['fuck'],13038,fuck yourself
+494,"['yo', 'buddies', 'play']",13161,my yo and all his buddies play it all of them 
+495,['lol'],13166,lol
+496,"['hell', 'come', 'lol']",13283,where the hell did that come from lol
+497,"['ah', 'interesting', 'thanks', 'info']",13286,ah interesting thanks for the info 
+498,"['remember', 'fortnite', 'days', 'ughhhh', 'scammers', 'roblox']",13309,i remember fortnite days ughhhh now its scammers on roblox 😔
+499,"['like', 'pineapple', 'come', 'mean', 'vax', 'see', 'connection', 'lol']",13387,no like how did pineapple come to mean vax i don’t see a connection at all lol
+500,"['right', 'sounds', 'like', 'torture']",13454,right that sounds like torture to me 
+501,"['daughter', 'roblox', 'period', 'literally', 'child', 'exploitation', 'pedophilia', 'circus']",13608,your daughter shouldn’t be on roblox period it’s literally a child exploitation and pedophilia circus 
+502,"['lol', 'maybe', 'rather']",13634,lol maybe she’d rather have…
+503,['fuck'],13703,fuck no
+504,['interesting'],14296,interesting 
+505,"['sounds', 'like', 'anime']",14687,sounds like an anime
+506,"['hmmm', 'wander', 'lol']",14985,hmmm i wander why lol
+507,"['hmm', 'interesting', 'point', 'never', 'thought']",15062,hmm interesting point i never thought of that 
+508,"['description', 'reminds', 'one', 'scene', 'movie', 'pursuit', 'happyness', 'guy', 'chris', 'working', 'hard', 'unpaid', 'internship', 'huge', 'financial', 'firm', 'top', 'performer', 'gets', 'paid', 'job', 'end', 'internship', 'like', 'interns', 'chris', 'dresses', 'clean', 'intelligent', 'guy', 'due', 'circumstances', 'living', 'homeless', 'shelter', 'young', 'son', 'unpaid', 'internship', 'stakes', 'high', 'chris', 'job', 'firm', 'one', 'chance', 'succeed', 'life', 'surrounded', 'fat', 'well', 'fed', 'financial', 'executives', 'work', 'son', 'homeless', 'starving', 'workplace', 'like', 'keep', 'appearances', 'everything', 'fine', 'like', 'interns', 'order', 'stick', 'like', 'sore', 'thumb', 'ruin', 'shot', 'job', 'one', 'day', 'runs', 'big', 'important', 'executive', 'firm', 'exiting', 'building', 'executive', 'quickly', 'asks', 'chris', 'bucks', 'exec', 'forgot', 'wallet', 'upstairs', 'camera', 'zooms', 'chris', 'wallet', 'bucks', 'literally', 'giving', 'right', 'means', 'son', 'eat', 'today', 'reaches', 'wallet', 'gives', 'exec', 'bucks', 'exec', 'ofc', 'forgets', 'ever', 'return', 'chris', 'guy', 'high', 'flying', 'financial', 'exec', 'bucks', 'literally', 'nothing', 'miniscule', 'even', 'think', 'obvious', 'ask', 'colleague', 'bucks', 'literally', 'nothing', 'nothing', 'also', 'forgets', 'return', 'chris', 'bucks', 'difference', 'able', 'feed', 'son', 'tonight', 'pretty', 'good', 'movie', 'btw', 'based', 'real', 'guy', 'story', 'chris', 'gardner', 'made', 'homeless', 'millionaire', 'single', 'father', 'living', 'homeless', 'shelter', 'half', 'year', 'son', 'friend', 'actual', 'rich', 'parents', 'highly', 'probable', 'money', 'asks', 'obvious', 'given', 'something', 'easily', 'granted', 'consequences', 'even', 'register', 'tiny', 'little', 'child', 'brain', 'money', 'might', 'actually', 'mean', 'something', 'kids', 'even', 'adults', 'let', 'alone', 'little', 'kids', 'money', 'probably', 'literally', 'meaning', 'food', 'food', 'infinite', 'abundant', 'register', 'might', 'straining', 'somebody', 'eating', 'food', 'every', 'single', 'day']",15340,your description reminds me of that one scene in the movie the pursuit of happyness this guy chris is working hard at his unpaid internship in a huge financial firm only top performer gets the paid job at the end of the internship out of like interns chris dresses clean and is an intelligent guy but due to circumstances he's living in a homeless shelter with his young son while doing this unpaid internship the stakes are so high for chris if he can get a job at this firm this is his one chance to succeed in life so he's surrounded by all these fat well fed financial executives at work while him and his son are homeless and starving at a workplace like that he has to keep up appearances that everything is fine and he's just like these other interns in order not to stick out like a sore thumb and not ruin his shot at the job then one day he runs into this big important executive from his firm while exiting the building and the executive quickly asks chris for bucks because the exec forgot his wallet upstairs the camera zooms into chris' wallet bucks is literally all he has giving it up right now means him and his son don't eat today and he reaches into his wallet and gives the exec bucks which the exec ofc forgets to ever return to chris for this guy high flying financial exec bucks is literally nothing it's so miniscule he doesn't even think about it for him it's obvious to ask a colleague for bucks because it's literally nothing to him because it's nothing he also forgets to return it while for chris bucks is the difference between not being able to feed his son tonight it's a pretty good movie btw and based on a real guy's story chris gardner how he made it from homeless to millionaire while being a single father and living in a homeless shelter for half a year so if your son's friend has actual rich parents it's highly probable that to him the money he asks is so obvious and a given something easily granted with no consequences that it doesn't even register in his tiny little child brain that this money might actually mean something to any other kids even adults do this let alone little kids money probably literally has no meaning to him same with food food is infinite and abundant to him it doesn't register that he might be straining somebody by eating their food every single day 
+509,"['sound', 'dramatic', 'lol']",15355,you sound so dramatic lol
+510,['lol'],15789,lol
+511,"['wowzers', 'yeah', 'crazy', 'easy', 'cellphone', 'go', 'missing', 'shucks']",15790,wowzers yeah it's crazy how easy a cellphone can go missing shucks 
+512,"['going', 'sad', 'drops', 'puddle']",15798,it’s going to be so sad when she drops it in a puddle 
+513,"['dropped', 'toilet']",15893,or dropped in the toilet 
+514,"['ol', 'grammy', 'gave', 'dud', 'oh', 'honey', 'nasty', 'bitch']",15952,‘ol grammy gave you a dud oh honey what a nasty bitch ’
+515,"['yo', 'screw']",16224,your yo didn't screw up you did 
+516,"['eh', 'yo', 'screw']",16238,eh your yo didn’t screw up you did 
+517,['screwed'],16294,you screwed up yourself 
+518,"['practically', 'natural', 'consequences']",16383,it's practically natural consequences 
+519,['nailed'],16931,you nailed it 💯
+520,"['wanna', 'come', 'lol']",16993,i wanna come lol
+521,"['okay', 'definitely', 'spiked', 'lemonade', 'right', 'going', 'back', 'forth', 'one']",16994,okay so that was definitely spiked lemonade right i've been going back and forth on that one 
+522,"['definately', 'waste', 'lol', 'thank', 'least', 'crazy', 'thinking', 'like']",17311,> its definately a waste lol thank you at least i am not crazy for thinking like this 
+523,"['thanks', 'pointing', 'missed', 'thread', 'good', 'info']",17393,thanks for pointing that out i'd missed that thread good info there 
+524,"['remember', 'buddy', 'com']",17886,remember buddy u com 
+525,"['entertainment', 'somewhat', 'addictive', 'anything', 'people', 'enjoy', 'somewhat', 'addictive', 'pleasure', 'addictive']",17909,all entertainment is somewhat addictive anything that people enjoy doing is somewhat addictive pleasure is addictive 
+526,['lol'],18415,same lol
+527,"['lol', 'love']",18436,lol i love it ❤️
+528,"['table', 'actually', 'see']",18494,does it at the table so you actually see what he’s doing
+529,"['king', 'hill', 'reference', 'peggy', 'hill', 'catch', 'phrase', 'lol']",18646,it’s a king of the hill reference… it’s peggy hill’s catch phrase lol
+530,"['thought', 'sound', 'letterkenny']",18654,i thought it was the sound they do in letterkenny 🤷🏼‍♀️
+531,"['hoooyeahhh', 'moaning', 'sound']",18656,“hoooyeahhh” is not a moaning sound @__@
+532,"['think', 'op', 'quit', 'active', 'duty', 'military', 'service', 'given', 'circumstances', 'think', 'fantastic']",18829,i don't think op can just 'quit' active duty military service given the circumstances i think he's doing fantastic 
+533,"['yup', 'lol']",19101,yup lol
+534,"['introvert', 'thinking', 'time']",19117,i'm an introvert i'm thinking that most of the time 
+535,"['really', 'care', 'pew', 'pew', 'pew', 'thing', 'craze', 'kid']",19125,i really don't care about what pew pew pew thing is all the craze i get it i was a kid once once 
+536,['lol'],19181,lol
+537,"['yeeep', 'lol']",19190,yeeep lol
+538,"['roblox', 'fortnite', 'etc']",19229,or roblox fortnite etc 🙄
+539,"['darling', 'really']",19240,“no darling i really don’t” 😂😂
+540,"['mine', 'missed', 'memo', 'stopped', 'making', 'noise', 'since', 'came']",19283,mine missed that memo he's and hasn't stopped making noise since he came out of me 
+541,"['sound', 'pollution', 'excellent', 'explanation']",19286, x the sound pollution excellent explanation 
+542,['disagree'],19403,i disagree 
+543,"['dad', 'blippi', 'vibes']",19798,dad has blippi vibes😂
+544,"['oooh', 'interesting', 'thanks', 'idea']",20142,oooh that's interesting thanks for the idea
+545,['shoot'],20185,shoot me too 
+546,"['thank', 'know', 'missed', 'lego', 'video', 'games', 'lol']",20236,thank you i don’t know how i missed that lego has video games lol 
+547,"['oh', 'sounds', 'awesome', 'thanks']",20237,oh that sounds awesome thanks
+548,"['oh', 'sounds', 'interesting', 'thanks']",20244,oh that sounds interesting thanks
+549,"['lol', 'love']",20252,lol love it 
+550,"['sound', 'like', 'awesome', 'mum']",20509,you sound like an awesome mum 
+551,"['silly', 'miss', 'obvious', 'connection', 'beloved', 'classic', 'thank']",20648,how silly of me to miss the obvious connection to a beloved classic thank you 
+552,"['know', 'lol']",21158,i know lol
+553,"['remember', 'seeing', 'cinema', 'think', 'like', 'thanks']",21375,i remember seeing that at the cinema and i think she will like it too thanks 
+554,"['excellent', 'film']",21376,excellent film 
+555,['nope'],21553,nope
+556,"['walks', 'like', 'duck', 'quacks', 'like', 'duck', 'probably', 'duck', 'shaped', 'lootbox']",21690,if it walks like a duck and quacks like a duck it's probably a duck shaped lootbox 
+557,"['sounds', 'fun']",21964,sounds fun 
+558,"['love', 'roblox', 'lol']",22301,they love their roblox lol
+559,"['qustodio', 'software', 'pc', 'much']",22872,qustodio is software on his pc which does much the same 
