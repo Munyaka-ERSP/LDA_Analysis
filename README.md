@@ -28,4 +28,37 @@ To obtain the dataset, we webscraped on three different subreddit sections:
 - **r/parenting** on query Roblox
 - **r/roblox** on query *parent OR safe OR concern OR danger OR scam AND (daughter OR niece OR nephew OR son OR child)*
 
+ZooSeeker/
+├── app/
+│   ├── src/
+│   │   ├── androidTest/                # Contains Android instrumented tests.
+│   │   │   └── java/
+│   │   │       └── com/
+│   │   │           └── example/
+│   │   │               └── zooseeker_jj_zaaz_team_52/   # Test cases for the ZooSeeker app functionalities.
+│   │   ├── main/                       # Core source files for the app.
+│   │   │   ├── AndroidManifest.xml     # Configures essential settings and permissions for the app.
+│   │   │   ├── assets/                 # Static files such as JSON data for the zoo layouts and exhibits.
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── zooseeker_jj_zaaz_team_52/   # Java source files for main app functionalities.
+│   │   │   └── res/                    # UI resources, including layouts, strings, and images for different screen densities.
+│   │   └── test/                       # Unit tests for Java classes.
+│   │       └── java/
+│   │           └── com/
+│   │               └── example/
+│   │                   └── zooseeker_jj_zaaz_team_52/   # Unit tests for non-UI components.
+│   ├── build.gradle                    # App-specific Gradle build configuration.
+│   └── proguard-rules.pro              # Rules for shrinking and obfuscation of the code.
+├── gradle/                             # Contains Gradle wrapper, enabling consistent build environments.
+│   └── wrapper/
+│       ├── gradle-wrapper.jar          # The wrapper itself, a binary JAR file.
+│       └── gradle-wrapper.properties   # Properties for the wrapper, specifying Gradle distribution.
+├── gradlew                             # Unix shell script to run the Gradle task.
+├── gradlew.bat                         # Batch script for running Gradle task on Windows.
+├── local.properties                    # Specifies local environment settings, typically SDK paths.
+├── settings.gradle                     # Root settings for the Gradle build system.
+└── build.gradle                        # Top-level Gradle build script, typically for defining plugins and versions.
+
 
