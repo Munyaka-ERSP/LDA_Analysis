@@ -1,5 +1,3 @@
-![ERSP Logo](images/uc_san_diego_tritons_logo_wordmark_2018_sportslogosnet-1154.png)
-
 ---
 
 <h1 style="text-align: center;">Hello and Welcome, We're ERSP Munyaka's Group</h1> 
