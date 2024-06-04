@@ -1,8 +1,4 @@
----
-
 <h1 style="text-align: center;">Hello and Welcome, We're ERSP Munyaka's Group</h1> 
-
----
 
 ### Table of Content:
 - [Title](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#hello-and-welcome-were-ersp-munyakas-group)
