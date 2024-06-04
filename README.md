@@ -28,6 +28,9 @@ To obtain the dataset, we webscraped on three different subreddit sections:
 - **r/parenting** on query Roblox
 - **r/roblox** on query *parent OR safe OR concern OR danger OR scam AND (daughter OR niece OR nephew OR son OR child)*
 
+## Folder structure
+
+```bash
 ZooSeeker/
 ├── app/
 │   ├── src/
@@ -60,5 +63,5 @@ ZooSeeker/
 ├── local.properties                    # Specifies local environment settings, typically SDK paths.
 ├── settings.gradle                     # Root settings for the Gradle build system.
 └── build.gradle                        # Top-level Gradle build script, typically for defining plugins and versions.
-
+```
 
