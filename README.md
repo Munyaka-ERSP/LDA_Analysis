@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hello and Welcome, We're ERSP Munyaka's Group</h1> 
+<h1 style="text-align: center;">Hello and Welcome, We're Munyaka's ERSP Group</h1> 
 
 ### Table of Content:
 - [Title](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#hello-and-welcome-were-ersp-munyakas-group)
@@ -10,10 +10,10 @@
 1. Dr. Imani Munyaka 
 
 ### Our Team:
-1. Andrew Smithwick 
+1. Andrew Smithwick  :email: asmithwick@ucsd.edu
 1. Chuong Nguyen :email: chn021@ucsd.edu
-1. Emily Gorial
-1. Natasha Tran
+1. Emily Gorial  :email: emgorial@ucsd.edu
+1. Natasha Tran  :email: nmt003@ucsd.edu
 
 ### Research:
 To obtain the dataset, we webscraped on three different subreddit sections:
