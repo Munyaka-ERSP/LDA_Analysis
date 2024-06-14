@@ -7,7 +7,7 @@
 - [Research](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#research)
 
 ### Advisor:
-1. Dr. Imani Munyaka 
+1. Dr. Imani Munyaka :email: imunyaka@ucsd.edu
 
 ### Our Team:
 1. Andrew Smithwick  :email: asmithwick@ucsd.edu
@@ -16,6 +16,9 @@
 1. Natasha Tran  :email: nmt003@ucsd.edu
 
 ### Research:
+
+This code was utilized to filter the data of Reddit comments on the subreddits mentioned below in order to analyze the concerns of parents of children who play Roblox. This work was done by the aforementioned Early Research Scholars Program members under Professor Imani Munyaka (Uljima Security and Privacy Lab).
+
 To obtain the dataset, we webscraped on three different subreddit sections:
 
 - **r/robloxparents** 
