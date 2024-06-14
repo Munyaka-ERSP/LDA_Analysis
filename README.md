@@ -12,6 +12,8 @@
   - [LDA](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#lda)
 - [Survey Visualizations](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#survey-visualizations)
 - [Libraries and Versions](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#libraries-and-versions)
+  - [LDA Script](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#lda-script)
+  - [ERSP Webscraping](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#ersp-webscraping)
 
 ### Advisor:
 1. Dr. Imani Munyaka :email: imunyaka@ucsd.edu
