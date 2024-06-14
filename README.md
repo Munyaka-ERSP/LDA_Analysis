@@ -7,6 +7,9 @@
 - [Research](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#research)
 - [Folder structure](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#folder-structure)
 - [How to Run](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#how-to-run)
+  - [Tutorials](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#tutorials)
+  - [Webscraping](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#webscraping)
+  - [LDA](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#lda)
 - [Survey Visualizations](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#survey-visualizations)
 - [Libraries and Versions](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#libraries-and-versions)
 
