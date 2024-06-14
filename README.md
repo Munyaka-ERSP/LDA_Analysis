@@ -4,7 +4,7 @@
 - [Title](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#hello-and-welcome-were-ersp-munyakas-group)
 - [Advisor](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#advisor)
 - [Our Team](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#our-team-consists-of)
-- [Research](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#research)
+- [State of Research](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#state-of-research)
 - [Folder structure](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#folder-structure)
 - [How to Run](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#how-to-run)
   - [Tutorials](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#tutorials)
