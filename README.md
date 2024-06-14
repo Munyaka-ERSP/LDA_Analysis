@@ -17,7 +17,7 @@
 
 ### Research:
 
-This code was utilized to filter the data of Reddit comments on the subreddits mentioned below in order to analyze the concerns of parents of children who play Roblox. This work was done by the aforementioned Early Research Scholars Program members under Professor Imani Munyaka (Uljima Security and Privacy Lab).
+This code was utilized to filter the data of Reddit comments (gathered in a .csv file) on the subreddits mentioned below in order to analyze the concerns of parents of children who play Roblox. This work was done by the aforementioned Early Research Scholars Program members under Professor Imani Munyaka (Uljima Security and Privacy Lab).
 
 To obtain the dataset, we webscraped on three different subreddit sections:
 
