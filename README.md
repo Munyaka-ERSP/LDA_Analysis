@@ -24,7 +24,7 @@
 1. Emily Gorial  :email: emgorial@ucsd.edu
 1. Natasha Tran  :email: nmt003@ucsd.edu
 
-### Research:
+### Research: [State of Research](https://github.com/Munyaka-ERSP/LDA_Analysis/blob/main/State%20of%20Research%20ERSP.pdf)
 
 This code was utilized to filter the data of Reddit comments (gathered in a .csv file) on the subreddits mentioned below in order to analyze the concerns of parents of children who play Roblox. This work was done by the aforementioned Early Research Scholars Program members under Professor Imani Munyaka (Uljima Security and Privacy Lab).
 
