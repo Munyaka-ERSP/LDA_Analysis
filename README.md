@@ -5,6 +5,10 @@
 - [Advisor](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#advisor)
 - [Our Team](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#our-team-consists-of)
 - [Research](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#research)
+- [Folder structure](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#folder-structure)
+- [How to Run](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#how-to-run)
+- [Survey Visualizations](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#survey-visualizations)
+- [Libraries and Versions](https://github.com/Munyaka-ERSP/LDA_Analysis?tab=readme-ov-file#libraries-and-versions)
 
 ### Advisor:
 1. Dr. Imani Munyaka :email: imunyaka@ucsd.edu
