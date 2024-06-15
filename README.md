@@ -110,7 +110,8 @@ Go to `LDA_Code/Topic_Generation.ipynb` to run Latent Direlech Allocation on you
 The notebook currently **can not** save to drive. If it is uploaded to Google Colab, [this link](https://colab.research.google.com/notebooks/io.ipynb) can help setup the rest of the code. Significant code edits may be required.
 
 ### Survey Visualizations
-- Python Notebook found in `Survey_Result/Agree_Disagree_Statements_Result/surveyVisualizations.ipynb`
+- Python Notebook found in `Survey_Graphics_Code/surveyVisualizations.ipynb`
+  - Note there is a currently broken copy in `Survey_Result/Agree_Disagree_Statements_Result/surveyVisualizations.ipynb`. Don't use that one if you don't want to debug it.
 - `Survey_Result/Agree_Disagree_Statements_Result/output.png`: displaying percentage of parents agreeing or disagreeing to how Roblox is handling the issues: talking to strangers, scams, seeing inappropriate contents, excessive times online. 
 - `Survey_Result/Common_Word_Response_Vis/bigrams_131.png`: top 10 most common two words phrase in parents response to question 131
 - `Survey_Result/Common_Word_Response_Vis/most_common131.png`: top 10 most common two words phrase in parents response
